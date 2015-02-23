@@ -1,0 +1,2302 @@
+[
+  {
+    "id": "CollegeWidow",
+    "name": "College Widow"
+  },
+  {
+    "id": "TheOldConvict",
+    "name": "The Old Convict"
+  },
+  {
+    "id": "BeardOfBarbarism",
+    "name": "Beard Of Barbarism"
+  },
+  {
+    "id": "GranolaGirl",
+    "name": "Granola Girl"
+  },
+  {
+    "id": "GlamorousSingleMother",
+    "name": "Glamorous Single Mother"
+  },
+  {
+    "id": "TownGirls",
+    "name": "Town Girls"
+  },
+  {
+    "id": "KickingAssInAllHerFinery",
+    "name": "Kicking Ass In All Her Finery"
+  },
+  {
+    "id": "CatholicSchoolGirlsRule",
+    "name": "Catholic School Girls Rule"
+  },
+  {
+    "id": "SirIndexOfTropes",
+    "name": "Sir Index Of Tropes"
+  },
+  {
+    "id": "DrillSergeantNasty",
+    "name": "Drill Sergeant Nasty"
+  },
+  {
+    "id": "TomboyPrincess",
+    "name": "Tomboy Princess"
+  },
+  {
+    "id": "Dominatrix",
+    "name": "Dominatrix"
+  },
+  {
+    "id": "MagicalNanny",
+    "name": "Magical Nanny"
+  },
+  {
+    "id": "PregnancyTropes",
+    "name": "Pregnancy Tropes"
+  },
+  {
+    "id": "TheChiefsDaughter",
+    "name": "The Chiefs Daughter"
+  },
+  {
+    "id": "PlayboyBunny",
+    "name": "Playboy Bunny"
+  },
+  {
+    "id": "Hackette",
+    "name": "Hackette"
+  },
+  {
+    "id": "ActionHeroBabysitter",
+    "name": "Action Hero Babysitter"
+  },
+  {
+    "id": "CrustyCaretaker",
+    "name": "Crusty Caretaker"
+  },
+  {
+    "id": "HuskyRusskie",
+    "name": "Husky Russkie"
+  },
+  {
+    "id": "WomanScorned",
+    "name": "Woman Scorned"
+  },
+  {
+    "id": "TheLoinsSleepTonight",
+    "name": "The Loins Sleep Tonight"
+  },
+  {
+    "id": "TheSlacker",
+    "name": "The Slacker"
+  },
+  {
+    "id": "NoShirtLongJacket",
+    "name": "No Shirt Long Jacket"
+  },
+  {
+    "id": "HandyMan",
+    "name": "Handy Man"
+  },
+  {
+    "id": "PregnantHostage",
+    "name": "Pregnant Hostage"
+  },
+  {
+    "id": "CuteSportsClubManager",
+    "name": "Cute Sports Club Manager"
+  },
+  {
+    "id": "GoodOlBoy",
+    "name": "Good Ol Boy"
+  },
+  {
+    "id": "GirlishPigtails",
+    "name": "Girlish Pigtails"
+  },
+  {
+    "id": "GirlInTheTower",
+    "name": "Girl In The Tower"
+  },
+  {
+    "id": "NubileSavage",
+    "name": "Nubile Savage"
+  },
+  {
+    "id": "GayBravado",
+    "name": "Gay Bravado"
+  },
+  {
+    "id": "IronLady",
+    "name": "Iron Lady"
+  },
+  {
+    "id": "ApronMatron",
+    "name": "Apron Matron"
+  },
+  {
+    "id": "HouseWife",
+    "name": "House Wife"
+  },
+  {
+    "id": "SpoiledSweet",
+    "name": "Spoiled Sweet"
+  },
+  {
+    "id": "GagBoobs",
+    "name": "Gag Boobs"
+  },
+  {
+    "id": "BlackWidow",
+    "name": "Black Widow"
+  },
+  {
+    "id": "WomanInBlack",
+    "name": "Woman In Black"
+  },
+  {
+    "id": "GossipyHens",
+    "name": "Gossipy Hens"
+  },
+  {
+    "id": "EunuchsAreEvil",
+    "name": "Eunuchs Are Evil"
+  },
+  {
+    "id": "WidowWitch",
+    "name": "Widow Witch"
+  },
+  {
+    "id": "FarmersDaughter",
+    "name": "Farmers Daughter"
+  },
+  {
+    "id": "BadassBaritone",
+    "name": "Badass Baritone"
+  },
+  {
+    "id": "NiceJewishBoy",
+    "name": "Nice Jewish Boy"
+  },
+  {
+    "id": "TheGeneralissimo",
+    "name": "The Generalissimo"
+  },
+  {
+    "id": "UnluckyEveryDude",
+    "name": "Unlucky Every Dude"
+  },
+  {
+    "id": "JewishAmericanPrincess",
+    "name": "Jewish American Princess"
+  },
+  {
+    "id": "GirlOfTheWeek",
+    "name": "Girl Of The Week"
+  },
+  {
+    "id": "BeardOfEvil",
+    "name": "Beard Of Evil"
+  },
+  {
+    "id": "ContraltoOfDanger",
+    "name": "Contralto Of Danger"
+  },
+  {
+    "id": "WalkingShirtlessScene",
+    "name": "Walking Shirtless Scene"
+  },
+  {
+    "id": "DepravedHomosexual",
+    "name": "Depraved Homosexual"
+  },
+  {
+    "id": "MenCantKeepHouse",
+    "name": "Men Cant Keep House"
+  },
+  {
+    "id": "HighClassCallGirl",
+    "name": "High Class Call Girl"
+  },
+  {
+    "id": "CoolOldGuy",
+    "name": "Cool Old Guy"
+  },
+  {
+    "id": "GracefulLadiesLikePurple",
+    "name": "Graceful Ladies Like Purple"
+  },
+  {
+    "id": "GentlemanWizard",
+    "name": "Gentleman Wizard"
+  },
+  {
+    "id": "OneeSama",
+    "name": "Onee Sama"
+  },
+  {
+    "id": "ViolentlyProtectiveGirlFriend",
+    "name": "Violently Protective Girl Friend"
+  },
+  {
+    "id": "GodSaveUsFromTheQueen",
+    "name": "God Save Us From The Queen"
+  },
+  {
+    "id": "BrokenBird",
+    "name": "Broken Bird"
+  },
+  {
+    "id": "SmittenTeenageGirl",
+    "name": "Smitten Teenage Girl"
+  },
+  {
+    "id": "ManlyGay",
+    "name": "Manly Gay"
+  },
+  {
+    "id": "RebelliousPrincess",
+    "name": "Rebellious Princess"
+  },
+  {
+    "id": "SexySecretary",
+    "name": "Sexy Secretary"
+  },
+  {
+    "id": "ShirtlessScene",
+    "name": "Shirtless Scene"
+  },
+  {
+    "id": "StatuesqueStunner",
+    "name": "Statuesque Stunner"
+  },
+  {
+    "id": "Meganekko",
+    "name": "Meganekko"
+  },
+  {
+    "id": "BiggerIsBetterInBed",
+    "name": "Bigger Is Better In Bed"
+  },
+  {
+    "id": "BaitAndSwitchLesbians",
+    "name": "Bait And Switch Lesbians"
+  },
+  {
+    "id": "FemininityFailure",
+    "name": "Femininity Failure"
+  },
+  {
+    "id": "FilleFatale",
+    "name": "Fille Fatale"
+  },
+  {
+    "id": "LawmanGoneBad",
+    "name": "Lawman Gone Bad"
+  },
+  {
+    "id": "YamatoNadeshiko",
+    "name": "Yamato Nadeshiko"
+  },
+  {
+    "id": "FinalGirl",
+    "name": "Final Girl"
+  },
+  {
+    "id": "MadonnaWhoreComplex",
+    "name": "Madonna Whore Complex"
+  },
+  {
+    "id": "HarpOfFemininity",
+    "name": "Harp Of Femininity"
+  },
+  {
+    "id": "TheBaroness",
+    "name": "The Baroness"
+  },
+  {
+    "id": "InstantSoprano",
+    "name": "Instant Soprano"
+  },
+  {
+    "id": "GagPenis",
+    "name": "Gag Penis"
+  },
+  {
+    "id": "SeashellBra",
+    "name": "Seashell Bra"
+  },
+  {
+    "id": "MaidenAunt",
+    "name": "Maiden Aunt"
+  },
+  {
+    "id": "OneOfTheBoys",
+    "name": "One Of The Boys"
+  },
+  {
+    "id": "MachoCamp",
+    "name": "Macho Camp"
+  },
+  {
+    "id": "LesbianCop",
+    "name": "Lesbian Cop"
+  },
+  {
+    "id": "GirlNextDoor",
+    "name": "Girl Next Door"
+  },
+  {
+    "id": "WickedWitch",
+    "name": "Wicked Witch"
+  },
+  {
+    "id": "DecoyDamsel",
+    "name": "Decoy Damsel"
+  },
+  {
+    "id": "ThePatriarch",
+    "name": "The Patriarch"
+  },
+  {
+    "id": "JadedWashout",
+    "name": "Jaded Washout"
+  },
+  {
+    "id": "TheOphelia",
+    "name": "The Ophelia"
+  },
+  {
+    "id": "LovelyAssistant",
+    "name": "Lovely Assistant"
+  },
+  {
+    "id": "TheWomanWearingTheQueenlyMask",
+    "name": "The Woman Wearing The Queenly Mask"
+  },
+  {
+    "id": "CuteClumsyGirl",
+    "name": "Cute Clumsy Girl"
+  },
+  {
+    "id": "WorldsStrongestMan",
+    "name": "Worlds Strongest Man"
+  },
+  {
+    "id": "DisappearedDad",
+    "name": "Disappeared Dad"
+  },
+  {
+    "id": "TheAllAmericanBoy",
+    "name": "The All American Boy"
+  },
+  {
+    "id": "IdolSinger",
+    "name": "Idol Singer"
+  },
+  {
+    "id": "HairyGirl",
+    "name": "Hairy Girl"
+  },
+  {
+    "id": "BarbaricBully",
+    "name": "Barbaric Bully"
+  },
+  {
+    "id": "TheButcher",
+    "name": "The Butcher"
+  },
+  {
+    "id": "TeenyWeenie",
+    "name": "Teeny Weenie"
+  },
+  {
+    "id": "HotScoop",
+    "name": "Hot Scoop"
+  },
+  {
+    "id": "UnisexTropes",
+    "name": "Unisex Tropes"
+  },
+  {
+    "id": "HotGypsyWoman",
+    "name": "Hot Gypsy Woman"
+  },
+  {
+    "id": "LightFeminineAndDarkFeminine",
+    "name": "Light Feminine And Dark Feminine"
+  },
+  {
+    "id": "TheHighQueen",
+    "name": "The High Queen"
+  },
+  {
+    "id": "SexyPriest",
+    "name": "Sexy Priest"
+  },
+  {
+    "id": "MagicalGirlWarrior",
+    "name": "Magical Girl Warrior"
+  },
+  {
+    "id": "FemmeFatale",
+    "name": "Femme Fatale"
+  },
+  {
+    "id": "MysticalWaif",
+    "name": "Mystical Waif"
+  },
+  {
+    "id": "ArchnemesisDad",
+    "name": "Archnemesis Dad"
+  },
+  {
+    "id": "CreepyHouseKeeper",
+    "name": "Creepy House Keeper"
+  },
+  {
+    "id": "LadyDrunk",
+    "name": "Lady Drunk"
+  },
+  {
+    "id": "LittleDeadRidingHood",
+    "name": "Little Dead Riding Hood"
+  },
+  {
+    "id": "BathingBeauty",
+    "name": "Bathing Beauty"
+  },
+  {
+    "id": "ShelteredAristocrat",
+    "name": "Sheltered Aristocrat"
+  },
+  {
+    "id": "TheGambler",
+    "name": "The Gambler"
+  },
+  {
+    "id": "TinyTyrannicalGirl",
+    "name": "Tiny Tyrannical Girl"
+  },
+  {
+    "id": "BattleButler",
+    "name": "Battle Butler"
+  },
+  {
+    "id": "MafiaPrincess",
+    "name": "Mafia Princess"
+  },
+  {
+    "id": "GamerChick",
+    "name": "Gamer Chick"
+  },
+  {
+    "id": "HotMenAtWork",
+    "name": "Hot Men At Work"
+  },
+  {
+    "id": "DaddysGirl",
+    "name": "Daddys Girl"
+  },
+  {
+    "id": "Kawaiiko",
+    "name": "Kawaiiko"
+  },
+  {
+    "id": "LittleMissBadass",
+    "name": "Little Miss Badass"
+  },
+  {
+    "id": "PrincelyTropes",
+    "name": "Princely Tropes"
+  },
+  {
+    "id": "SensitiveGuyAndManlyMan",
+    "name": "Sensitive Guy And Manly Man"
+  },
+  {
+    "id": "EstrogenBrigade",
+    "name": "Estrogen Brigade"
+  },
+  {
+    "id": "BigBeautifulWoman",
+    "name": "Big Beautiful Woman"
+  },
+  {
+    "id": "TimePassageBeard",
+    "name": "Time Passage Beard"
+  },
+  {
+    "id": "TheSquadette",
+    "name": "The Squadette"
+  },
+  {
+    "id": "LadyOfAdventure",
+    "name": "Lady Of Adventure"
+  },
+  {
+    "id": "DragonLady",
+    "name": "Dragon Lady"
+  },
+  {
+    "id": "TheOneGuy",
+    "name": "The One Guy"
+  },
+  {
+    "id": "SingleMomStripper",
+    "name": "Single Mom Stripper"
+  },
+  {
+    "id": "PetitePride",
+    "name": "Petite Pride"
+  },
+  {
+    "id": "LegCling",
+    "name": "Leg Cling"
+  },
+  {
+    "id": "LittleGirlsKickShins",
+    "name": "Little Girls Kick Shins"
+  },
+  {
+    "id": "OutdoorsyGal",
+    "name": "Outdoorsy Gal"
+  },
+  {
+    "id": "TheLadette",
+    "name": "The Ladette"
+  },
+  {
+    "id": "AdrenalineMakeover",
+    "name": "Adrenaline Makeover"
+  },
+  {
+    "id": "BromanticFoil",
+    "name": "Bromantic Foil"
+  },
+  {
+    "id": "TheCharmer",
+    "name": "The Charmer"
+  },
+  {
+    "id": "StoutStrength",
+    "name": "Stout Strength"
+  },
+  {
+    "id": "EducationMama",
+    "name": "Education Mama"
+  },
+  {
+    "id": "StandardFiftiesFather",
+    "name": "Standard Fifties Father"
+  },
+  {
+    "id": "DisguisedInDrag",
+    "name": "Disguised In Drag"
+  },
+  {
+    "id": "StringyHairedGhostGirl",
+    "name": "Stringy Haired Ghost Girl"
+  },
+  {
+    "id": "Fundoshi",
+    "name": "Fundoshi"
+  },
+  {
+    "id": "ElegantGothicLolita",
+    "name": "Elegant Gothic Lolita"
+  },
+  {
+    "id": "KnightInShiningArmor",
+    "name": "Knight In Shining Armor"
+  },
+  {
+    "id": "SexistUsedCarSalesman",
+    "name": "Sexist Used Car Salesman"
+  },
+  {
+    "id": "ShiksaGoddess",
+    "name": "Shiksa Goddess"
+  },
+  {
+    "id": "CarpetOfVirility",
+    "name": "Carpet Of Virility"
+  },
+  {
+    "id": "SchoolNurse",
+    "name": "School Nurse"
+  },
+  {
+    "id": "OverlordJr",
+    "name": "Overlord Jr"
+  },
+  {
+    "id": "GirlsWithGuns",
+    "name": "Girls With Guns"
+  },
+  {
+    "id": "TomboyWithAGirlyStreak",
+    "name": "Tomboy With AGirly Streak"
+  },
+  {
+    "id": "NaughtyNurseOutfit",
+    "name": "Naughty Nurse Outfit"
+  },
+  {
+    "id": "PoliticallyActivePrincess",
+    "name": "Politically Active Princess"
+  },
+  {
+    "id": "NaginatasAreFeminine",
+    "name": "Naginatas Are Feminine"
+  },
+  {
+    "id": "TheChanteuse",
+    "name": "The Chanteuse"
+  },
+  {
+    "id": "LongJohnShoutout",
+    "name": "Long John Shoutout"
+  },
+  {
+    "id": "CosplayOtakuGirl",
+    "name": "Cosplay Otaku Girl"
+  },
+  {
+    "id": "OfficeLady",
+    "name": "Office Lady"
+  },
+  {
+    "id": "TwoGuysInAGarage",
+    "name": "Two Guys In AGarage"
+  },
+  {
+    "id": "HotWitch",
+    "name": "Hot Witch"
+  },
+  {
+    "id": "DirtyCoward",
+    "name": "Dirty Coward"
+  },
+  {
+    "id": "NeutralFemale",
+    "name": "Neutral Female"
+  },
+  {
+    "id": "IllGirl",
+    "name": "Ill Girl"
+  },
+  {
+    "id": "MyBelovedSmother",
+    "name": "My Beloved Smother"
+  },
+  {
+    "id": "YaoiFangirl",
+    "name": "Yaoi Fangirl"
+  },
+  {
+    "id": "DadTheVeteran",
+    "name": "Dad The Veteran"
+  },
+  {
+    "id": "NaiveEverygirl",
+    "name": "Naive Everygirl"
+  },
+  {
+    "id": "EvilMatriarch",
+    "name": "Evil Matriarch"
+  },
+  {
+    "id": "RobotGirl",
+    "name": "Robot Girl"
+  },
+  {
+    "id": "GreatWhiteHunter",
+    "name": "Great White Hunter"
+  },
+  {
+    "id": "CampFollower",
+    "name": "Camp Follower"
+  },
+  {
+    "id": "Jailbait",
+    "name": "Jailbait"
+  },
+  {
+    "id": "TheChick",
+    "name": "The Chick"
+  },
+  {
+    "id": "DastardlyWhiplash",
+    "name": "Dastardly Whiplash"
+  },
+  {
+    "id": "WizardBeard",
+    "name": "Wizard Beard"
+  },
+  {
+    "id": "TheUglyGuysHotDaughter",
+    "name": "The Ugly Guys Hot Daughter"
+  },
+  {
+    "id": "PassionateSportsGirl",
+    "name": "Passionate Sports Girl"
+  },
+  {
+    "id": "GirlsLoveStuffedAnimals",
+    "name": "Girls Love Stuffed Animals"
+  },
+  {
+    "id": "CoolBigSis",
+    "name": "Cool Big Sis"
+  },
+  {
+    "id": "DarkMistress",
+    "name": "Dark Mistress"
+  },
+  {
+    "id": "TomBoyAndGirlyGirl",
+    "name": "Tom Boy And Girly Girl"
+  },
+  {
+    "id": "TheTease",
+    "name": "The Tease"
+  },
+  {
+    "id": "HouseHusband",
+    "name": "House Husband"
+  },
+  {
+    "id": "GentlemanDetective",
+    "name": "Gentleman Detective"
+  },
+  {
+    "id": "ChivalrousPervert",
+    "name": "Chivalrous Pervert"
+  },
+  {
+    "id": "BellyDancer",
+    "name": "Belly Dancer"
+  },
+  {
+    "id": "CuteWitch",
+    "name": "Cute Witch"
+  },
+  {
+    "id": "LadyInWaiting",
+    "name": "Lady In Waiting"
+  },
+  {
+    "id": "BoobsOfSteel",
+    "name": "Boobs Of Steel"
+  },
+  {
+    "id": "MountainMan",
+    "name": "Mountain Man"
+  },
+  {
+    "id": "SeeminglyWholesomeFiftiesGirl",
+    "name": "Seemingly Wholesome Fifties Girl"
+  },
+  {
+    "id": "SweetPollyOliver",
+    "name": "Sweet Polly Oliver"
+  },
+  {
+    "id": "Fangirl",
+    "name": "Fangirl"
+  },
+  {
+    "id": "BeautifulAllAlong",
+    "name": "Beautiful All Along"
+  },
+  {
+    "id": "SweaterGirl",
+    "name": "Sweater Girl"
+  },
+  {
+    "id": "MartyStu",
+    "name": "Marty Stu"
+  },
+  {
+    "id": "YaoiGuys",
+    "name": "Yaoi Guys"
+  },
+  {
+    "id": "TheWisePrince",
+    "name": "The Wise Prince"
+  },
+  {
+    "id": "FalseWidow",
+    "name": "False Widow"
+  },
+  {
+    "id": "FavorsForTheSexy",
+    "name": "Favors For The Sexy"
+  },
+  {
+    "id": "StageMom",
+    "name": "Stage Mom"
+  },
+  {
+    "id": "AsianHookerStereotype",
+    "name": "Asian Hooker Stereotype"
+  },
+  {
+    "id": "PecFlex",
+    "name": "Pec Flex"
+  },
+  {
+    "id": "PirateGirl",
+    "name": "Pirate Girl"
+  },
+  {
+    "id": "UnrequitedTragicMaiden",
+    "name": "Unrequited Tragic Maiden"
+  },
+  {
+    "id": "Socialite",
+    "name": "Socialite"
+  },
+  {
+    "id": "PluckyOfficeGirl",
+    "name": "Plucky Office Girl"
+  },
+  {
+    "id": "ALadyOnEachArm",
+    "name": "ALady On Each Arm"
+  },
+  {
+    "id": "LipstickAndLoadMontage",
+    "name": "Lipstick And Load Montage"
+  },
+  {
+    "id": "StrawMisogynist",
+    "name": "Straw Misogynist"
+  },
+  {
+    "id": "HeManWomanHater",
+    "name": "He Man Woman Hater"
+  },
+  {
+    "id": "GirlInABox",
+    "name": "Girl In ABox"
+  },
+  {
+    "id": "Ojou",
+    "name": "Ojou"
+  },
+  {
+    "id": "GENTLEMANADVENTURER",
+    "name": "Gentleman Adventurer"
+  },
+  {
+    "id": "BlondGuysAreEvil",
+    "name": "Blond Guys Are Evil"
+  },
+  {
+    "id": "UnderstandingBoyfriend",
+    "name": "Understanding Boyfriend"
+  },
+  {
+    "id": "Joshikousei",
+    "name": "Joshikousei"
+  },
+  {
+    "id": "BasementDweller",
+    "name": "Basement Dweller"
+  },
+  {
+    "id": "HystericalWoman",
+    "name": "Hysterical Woman"
+  },
+  {
+    "id": "DeliberatelyDistressedDamsel",
+    "name": "Deliberately Distressed Damsel"
+  },
+  {
+    "id": "MissKitty",
+    "name": "Miss Kitty"
+  },
+  {
+    "id": "GalleySlave",
+    "name": "Galley Slave"
+  },
+  {
+    "id": "GrandeDame",
+    "name": "Grande Dame"
+  },
+  {
+    "id": "NonActionGuy",
+    "name": "Non Action Guy"
+  },
+  {
+    "id": "Samurai",
+    "name": "Samurai"
+  },
+  {
+    "id": "OldSchoolChivalry",
+    "name": "Old School Chivalry"
+  },
+  {
+    "id": "HenpeckedHusband",
+    "name": "Henpecked Husband"
+  },
+  {
+    "id": "MysteriousWoman",
+    "name": "Mysterious Woman"
+  },
+  {
+    "id": "DistressedDude",
+    "name": "Distressed Dude"
+  },
+  {
+    "id": "AccidentalPornomancer",
+    "name": "Accidental Pornomancer"
+  },
+  {
+    "id": "VainSorceress",
+    "name": "Vain Sorceress"
+  },
+  {
+    "id": "DamselOutOfDistress",
+    "name": "Damsel Out Of Distress"
+  },
+  {
+    "id": "BigManOnCampus",
+    "name": "Big Man On Campus"
+  },
+  {
+    "id": "MachoMasochism",
+    "name": "Macho Masochism"
+  },
+  {
+    "id": "ReluctantFanserviceGirl",
+    "name": "Reluctant Fanservice Girl"
+  },
+  {
+    "id": "GoodGirlGoneBad",
+    "name": "Good Girl Gone Bad"
+  },
+  {
+    "id": "BattleaxeNurse",
+    "name": "Battleaxe Nurse"
+  },
+  {
+    "id": "NaughtyByNight",
+    "name": "Naughty By Night"
+  },
+  {
+    "id": "LadyOfWar",
+    "name": "Lady Of War"
+  },
+  {
+    "id": "LittleMissAlmighty",
+    "name": "Little Miss Almighty"
+  },
+  {
+    "id": "EvilDiva",
+    "name": "Evil Diva"
+  },
+  {
+    "id": "TakingTheVeil",
+    "name": "Taking The Veil"
+  },
+  {
+    "id": "MagicalSeventhSon",
+    "name": "Magical Seventh Son"
+  },
+  {
+    "id": "MistressAndServantBoy",
+    "name": "Mistress And Servant Boy"
+  },
+  {
+    "id": "FemaleMisogynist",
+    "name": "Female Misogynist"
+  },
+  {
+    "id": "ActionMom",
+    "name": "Action Mom"
+  },
+  {
+    "id": "DoggedNiceGuy",
+    "name": "Dogged Nice Guy"
+  },
+  {
+    "id": "GoGetterGirl",
+    "name": "Go Getter Girl"
+  },
+  {
+    "id": "GodivaHair",
+    "name": "Godiva Hair"
+  },
+  {
+    "id": "MrsRobinson",
+    "name": "Mrs Robinson"
+  },
+  {
+    "id": "TheHecateSisters",
+    "name": "The Hecate Sisters"
+  },
+  {
+    "id": "Chickification",
+    "name": "Chickification"
+  },
+  {
+    "id": "NobleMaleRoguishMale",
+    "name": "Noble Male Roguish Male"
+  },
+  {
+    "id": "ScaryLibrarian",
+    "name": "Scary Librarian"
+  },
+  {
+    "id": "BadassPrincess",
+    "name": "Badass Princess"
+  },
+  {
+    "id": "BumblingDad",
+    "name": "Bumbling Dad"
+  },
+  {
+    "id": "PrincessPhase",
+    "name": "Princess Phase"
+  },
+  {
+    "id": "BespectacledBastardBoyfriend",
+    "name": "Bespectacled Bastard Boyfriend"
+  },
+  {
+    "id": "AcceptableFeminineGoalsAndTraits",
+    "name": "Acceptable Feminine Goals And Traits"
+  },
+  {
+    "id": "MorallyBankruptBanker",
+    "name": "Morally Bankrupt Banker"
+  },
+  {
+    "id": "MarySue",
+    "name": "Mary Sue"
+  },
+  {
+    "id": "SurferDude",
+    "name": "Surfer Dude"
+  },
+  {
+    "id": "ActionGirlFriend",
+    "name": "Action Girl Friend"
+  },
+  {
+    "id": "Fratbro",
+    "name": "Fratbro"
+  },
+  {
+    "id": "RebelPrince",
+    "name": "Rebel Prince"
+  },
+  {
+    "id": "SenseiChan",
+    "name": "Sensei Chan"
+  },
+  {
+    "id": "JewishMother",
+    "name": "Jewish Mother"
+  },
+  {
+    "id": "AsianBabymama",
+    "name": "Asian Babymama"
+  },
+  {
+    "id": "MisterSeahorse",
+    "name": "Mister Seahorse"
+  },
+  {
+    "id": "BeautifulSlaveGirl",
+    "name": "Beautiful Slave Girl"
+  },
+  {
+    "id": "KickChick",
+    "name": "Kick Chick"
+  },
+  {
+    "id": "BastardBastard",
+    "name": "Bastard Bastard"
+  },
+  {
+    "id": "ButterFace",
+    "name": "Butter Face"
+  },
+  {
+    "id": "AbsentMindedProfessor",
+    "name": "Absent Minded Professor"
+  },
+  {
+    "id": "ChippendalesDancers",
+    "name": "Chippendales Dancers"
+  },
+  {
+    "id": "LonelyDollGirl",
+    "name": "Lonely Doll Girl"
+  },
+  {
+    "id": "BrawnHilda",
+    "name": "Brawn Hilda"
+  },
+  {
+    "id": "LittleRedFightingHood",
+    "name": "Little Red Fighting Hood"
+  },
+  {
+    "id": "LadyNotAppearingInThisGame",
+    "name": "Lady Not Appearing In This Game"
+  },
+  {
+    "id": "CuteGhostGirl",
+    "name": "Cute Ghost Girl"
+  },
+  {
+    "id": "Bridezilla",
+    "name": "Bridezilla"
+  },
+  {
+    "id": "DamselErrant",
+    "name": "Damsel Errant"
+  },
+  {
+    "id": "TheBear",
+    "name": "The Bear"
+  },
+  {
+    "id": "ActionDad",
+    "name": "Action Dad"
+  },
+  {
+    "id": "GlamorousWartimeSinger",
+    "name": "Glamorous Wartime Singer"
+  },
+  {
+    "id": "HandsomeDevil",
+    "name": "Handsome Devil"
+  },
+  {
+    "id": "PitGirls",
+    "name": "Pit Girls"
+  },
+  {
+    "id": "InsectQueen",
+    "name": "Insect Queen"
+  },
+  {
+    "id": "FemininityTropes",
+    "name": "Femininity Tropes"
+  },
+  {
+    "id": "TheCasanova",
+    "name": "The Casanova"
+  },
+  {
+    "id": "MagicalGirlfriend",
+    "name": "Magical Girlfriend"
+  },
+  {
+    "id": "TheGoodKing",
+    "name": "The Good King"
+  },
+  {
+    "id": "NaughtyNuns",
+    "name": "Naughty Nuns"
+  },
+  {
+    "id": "BigBeautifulMan",
+    "name": "Big Beautiful Man"
+  },
+  {
+    "id": "ManInWhite",
+    "name": "Man In White"
+  },
+  {
+    "id": "BlackMagicianGirl",
+    "name": "Black Magician Girl"
+  },
+  {
+    "id": "Keet",
+    "name": "Keet"
+  },
+  {
+    "id": "InnocentFanserviceGirl",
+    "name": "Innocent Fanservice Girl"
+  },
+  {
+    "id": "BridgeBunnies",
+    "name": "Bridge Bunnies"
+  },
+  {
+    "id": "EvenTheGirlsWantHer",
+    "name": "Even The Girls Want Her"
+  },
+  {
+    "id": "TheIngenue",
+    "name": "The Ingenue"
+  },
+  {
+    "id": "DirtyHarriet",
+    "name": "Dirty Harriet"
+  },
+  {
+    "id": "PrincessTropes",
+    "name": "Princess Tropes"
+  },
+  {
+    "id": "LovelyAngels",
+    "name": "Lovely Angels"
+  },
+  {
+    "id": "KavorkaMan",
+    "name": "Kavorka Man"
+  },
+  {
+    "id": "RightThroughHisPants",
+    "name": "Right Through His Pants"
+  },
+  {
+    "id": "FatSweatySouthernerInAWhiteSuit",
+    "name": "Fat Sweaty Southerner In AWhite Suit"
+  },
+  {
+    "id": "HerosMuse",
+    "name": "Heros Muse"
+  },
+  {
+    "id": "WrenchWench",
+    "name": "Wrench Wench"
+  },
+  {
+    "id": "BassoProfundo",
+    "name": "Basso Profundo"
+  },
+  {
+    "id": "DarkMagicalGirl",
+    "name": "Dark Magical Girl"
+  },
+  {
+    "id": "FourGirlEnsemble",
+    "name": "Four Girl Ensemble"
+  },
+  {
+    "id": "MamaBear",
+    "name": "Mama Bear"
+  },
+  {
+    "id": "WickedStepmother",
+    "name": "Wicked Stepmother"
+  },
+  {
+    "id": "DirtyOldMan",
+    "name": "Dirty Old Man"
+  },
+  {
+    "id": "FurryBaldness",
+    "name": "Furry Baldness"
+  },
+  {
+    "id": "AmazonianBeauty",
+    "name": "Amazonian Beauty"
+  },
+  {
+    "id": "SexyStewardess",
+    "name": "Sexy Stewardess"
+  },
+  {
+    "id": "YoungGun",
+    "name": "Young Gun"
+  },
+  {
+    "id": "MagicalGirl",
+    "name": "Magical Girl"
+  },
+  {
+    "id": "BodyguardBabes",
+    "name": "Bodyguard Babes"
+  },
+  {
+    "id": "CuteMonsterGirl",
+    "name": "Cute Monster Girl"
+  },
+  {
+    "id": "KnightErrant",
+    "name": "Knight Errant"
+  },
+  {
+    "id": "MommasBoy",
+    "name": "Mommas Boy"
+  },
+  {
+    "id": "LadyInRed",
+    "name": "Lady In Red"
+  },
+  {
+    "id": "DudeLooksLikeALady",
+    "name": "Dude Looks Like ALady"
+  },
+  {
+    "id": "MsFanservice",
+    "name": "Ms Fanservice"
+  },
+  {
+    "id": "WhiteMagicianGirl",
+    "name": "White Magician Girl"
+  },
+  {
+    "id": "DisposableSexWorker",
+    "name": "Disposable Sex Worker"
+  },
+  {
+    "id": "MagicIdolSinger",
+    "name": "Magic Idol Singer"
+  },
+  {
+    "id": "PerkyGoth",
+    "name": "Perky Goth"
+  },
+  {
+    "id": "MrFanservice",
+    "name": "Mr Fanservice"
+  },
+  {
+    "id": "GymBunny",
+    "name": "Gym Bunny"
+  },
+  {
+    "id": "PerkyFemaleMinion",
+    "name": "Perky Female Minion"
+  },
+  {
+    "id": "DeterminedHomesteadersWife",
+    "name": "Determined Homesteaders Wife"
+  },
+  {
+    "id": "SculleryMaid",
+    "name": "Scullery Maid"
+  },
+  {
+    "id": "TestesTest",
+    "name": "Testes Test"
+  },
+  {
+    "id": "GirlFriday",
+    "name": "Girl Friday"
+  },
+  {
+    "id": "DumbassTeenageSon",
+    "name": "Dumbass Teenage Son"
+  },
+  {
+    "id": "GenderInvertedTrope",
+    "name": "Gender Inverted Trope"
+  },
+  {
+    "id": "TunnelKing",
+    "name": "Tunnel King"
+  },
+  {
+    "id": "BeardOfSorrow",
+    "name": "Beard Of Sorrow"
+  },
+  {
+    "id": "WidowWoman",
+    "name": "Widow Woman"
+  },
+  {
+    "id": "BastardBoyfriend",
+    "name": "Bastard Boyfriend"
+  },
+  {
+    "id": "TheGruntingOrgasm",
+    "name": "The Grunting Orgasm"
+  },
+  {
+    "id": "LazyHusband",
+    "name": "Lazy Husband"
+  },
+  {
+    "id": "LadyMacBeth",
+    "name": "Lady Mac Beth"
+  },
+  {
+    "id": "TheVamp",
+    "name": "The Vamp"
+  },
+  {
+    "id": "GreaseMonkey",
+    "name": "Grease Monkey"
+  },
+  {
+    "id": "CulturedBadass",
+    "name": "Cultured Badass"
+  },
+  {
+    "id": "IceQueen",
+    "name": "Ice Queen"
+  },
+  {
+    "id": "HelloNurse",
+    "name": "Hello Nurse"
+  },
+  {
+    "id": "LittleSisterHeroine",
+    "name": "Little Sister Heroine"
+  },
+  {
+    "id": "HardDrinkingPartyGirl",
+    "name": "Hard Drinking Party Girl"
+  },
+  {
+    "id": "BaldBlackLeaderGuy",
+    "name": "Bald Black Leader Guy"
+  },
+  {
+    "id": "GayCowboy",
+    "name": "Gay Cowboy"
+  },
+  {
+    "id": "MissingMom",
+    "name": "Missing Mom"
+  },
+  {
+    "id": "GentlemanThief",
+    "name": "Gentleman Thief"
+  },
+  {
+    "id": "ShortTank",
+    "name": "Short Tank"
+  },
+  {
+    "id": "PrinceCharmless",
+    "name": "Prince Charmless"
+  },
+  {
+    "id": "PsychoLesbian",
+    "name": "Psycho Lesbian"
+  },
+  {
+    "id": "TheBlueBeard",
+    "name": "The Blue Beard"
+  },
+  {
+    "id": "QuintessentialBritishGentleman",
+    "name": "Quintessential British Gentleman"
+  },
+  {
+    "id": "Meido",
+    "name": "Meido"
+  },
+  {
+    "id": "FatherNeptune",
+    "name": "Father Neptune"
+  },
+  {
+    "id": "GirlWithPsychoWeapon",
+    "name": "Girl With Psycho Weapon"
+  },
+  {
+    "id": "Valkyries",
+    "name": "Valkyries"
+  },
+  {
+    "id": "Hobos",
+    "name": "Hobos"
+  },
+  {
+    "id": "WeirdBeard",
+    "name": "Weird Beard"
+  },
+  {
+    "id": "HauntedHeroine",
+    "name": "Haunted Heroine"
+  },
+  {
+    "id": "CasanovaWannabe",
+    "name": "Casanova Wannabe"
+  },
+  {
+    "id": "BrattyTeenageDaughter",
+    "name": "Bratty Teenage Daughter"
+  },
+  {
+    "id": "KindlyHousekeeper",
+    "name": "Kindly Housekeeper"
+  },
+  {
+    "id": "PapaWolf",
+    "name": "Papa Wolf"
+  },
+  {
+    "id": "SharpDressedMan",
+    "name": "Sharp Dressed Man"
+  },
+  {
+    "id": "AmazonChaser",
+    "name": "Amazon Chaser"
+  },
+  {
+    "id": "LovableAlphaBitch",
+    "name": "Lovable Alpha Bitch"
+  },
+  {
+    "id": "ScreamingWoman",
+    "name": "Screaming Woman"
+  },
+  {
+    "id": "SpaceshipGirl",
+    "name": "Spaceship Girl"
+  },
+  {
+    "id": "PrettyBoy",
+    "name": "Pretty Boy"
+  },
+  {
+    "id": "SmallGirlBigGun",
+    "name": "Small Girl Big Gun"
+  },
+  {
+    "id": "HeroicSeductress",
+    "name": "Heroic Seductress"
+  },
+  {
+    "id": "HighHeelFaceTurn",
+    "name": "High Heel Face Turn"
+  },
+  {
+    "id": "CampGay",
+    "name": "Camp Gay"
+  },
+  {
+    "id": "LooksLikeJesus",
+    "name": "Looks Like Jesus"
+  },
+  {
+    "id": "CampStraight",
+    "name": "Camp Straight"
+  },
+  {
+    "id": "ShirtlessCaptives",
+    "name": "Shirtless Captives"
+  },
+  {
+    "id": "BlondeRepublicanSexKitten",
+    "name": "Blonde Republican Sex Kitten"
+  },
+  {
+    "id": "FatGirl",
+    "name": "Fat Girl"
+  },
+  {
+    "id": "OldMaid",
+    "name": "Old Maid"
+  },
+  {
+    "id": "FauxActionGirl",
+    "name": "Faux Action Girl"
+  },
+  {
+    "id": "ShamelessFanserviceGirl",
+    "name": "Shameless Fanservice Girl"
+  },
+  {
+    "id": "JeanneDArchetype",
+    "name": "Jeanne DArchetype"
+  },
+  {
+    "id": "NocturnalEmission",
+    "name": "Nocturnal Emission"
+  },
+  {
+    "id": "ManicPixieDreamGirl",
+    "name": "Manic Pixie Dream Girl"
+  },
+  {
+    "id": "SoapBoxSadie",
+    "name": "Soap Box Sadie"
+  },
+  {
+    "id": "MisplacedKindergartenTeacher",
+    "name": "Misplaced Kindergarten Teacher"
+  },
+  {
+    "id": "WaistcoatOfStyle",
+    "name": "Waistcoat Of Style"
+  },
+  {
+    "id": "BastardGirlfriend",
+    "name": "Bastard Girlfriend"
+  },
+  {
+    "id": "NoWomansLand",
+    "name": "No Womans Land"
+  },
+  {
+    "id": "NeverMessWithGranny",
+    "name": "Never Mess With Granny"
+  },
+  {
+    "id": "GrannyClassic",
+    "name": "Granny Classic"
+  },
+  {
+    "id": "TheFightingNarcissist",
+    "name": "The Fighting Narcissist"
+  },
+  {
+    "id": "TroubledButCute",
+    "name": "Troubled But Cute"
+  },
+  {
+    "id": "GaussianGirl",
+    "name": "Gaussian Girl"
+  },
+  {
+    "id": "GrumpyOldMan",
+    "name": "Grumpy Old Man"
+  },
+  {
+    "id": "DaddysLittleVillain",
+    "name": "Daddys Little Villain"
+  },
+  {
+    "id": "CockFight",
+    "name": "Cock Fight"
+  },
+  {
+    "id": "HotScientist",
+    "name": "Hot Scientist"
+  },
+  {
+    "id": "ButchLesbian",
+    "name": "Butch Lesbian"
+  },
+  {
+    "id": "MysteriousWaif",
+    "name": "Mysterious Waif"
+  },
+  {
+    "id": "EverythingsBetterWithPrincesses",
+    "name": "Everythings Better With Princesses"
+  },
+  {
+    "id": "DarkActionGirl",
+    "name": "Dark Action Girl"
+  },
+  {
+    "id": "GirlyBruiser",
+    "name": "Girly Bruiser"
+  },
+  {
+    "id": "TheThreeFacesOfAdam",
+    "name": "The Three Faces Of Adam"
+  },
+  {
+    "id": "GreenSkinnedSpaceBabe",
+    "name": "Green Skinned Space Babe"
+  },
+  {
+    "id": "OverprotectiveDad",
+    "name": "Overprotective Dad"
+  },
+  {
+    "id": "BadAssBeard",
+    "name": "Bad Ass Beard"
+  },
+  {
+    "id": "ChildSoldiers",
+    "name": "Child Soldiers"
+  },
+  {
+    "id": "RightHandHottie",
+    "name": "Right Hand Hottie"
+  },
+  {
+    "id": "ValleyGirl",
+    "name": "Valley Girl"
+  },
+  {
+    "id": "BirthTropes",
+    "name": "Birth Tropes"
+  },
+  {
+    "id": "EarthMother",
+    "name": "Earth Mother"
+  },
+  {
+    "id": "GIRL",
+    "name": "GIRL"
+  },
+  {
+    "id": "CorruptHick",
+    "name": "Corrupt Hick"
+  },
+  {
+    "id": "SpiritedYoungLady",
+    "name": "Spirited Young Lady"
+  },
+  {
+    "id": "SwingLowSweetHarriet",
+    "name": "Swing Low Sweet Harriet"
+  },
+  {
+    "id": "TheFashionista",
+    "name": "The Fashionista"
+  },
+  {
+    "id": "ClingyJealousGirl",
+    "name": "Clingy Jealous Girl"
+  },
+  {
+    "id": "TeamMom",
+    "name": "Team Mom"
+  },
+  {
+    "id": "ManInAKilt",
+    "name": "Man In AKilt"
+  },
+  {
+    "id": "AlphaBitch",
+    "name": "Alpha Bitch"
+  },
+  {
+    "id": "AgentPeacock",
+    "name": "Agent Peacock"
+  },
+  {
+    "id": "MrsClaus",
+    "name": "Mrs Claus"
+  },
+  {
+    "id": "BadAssMustache",
+    "name": "Bad Ass Mustache"
+  },
+  {
+    "id": "TheEvilPrince",
+    "name": "The Evil Prince"
+  },
+  {
+    "id": "CrazyJealousGuy",
+    "name": "Crazy Jealous Guy"
+  },
+  {
+    "id": "JerkJock",
+    "name": "Jerk Jock"
+  },
+  {
+    "id": "ArabOilSheikh",
+    "name": "Arab Oil Sheikh"
+  },
+  {
+    "id": "UselessBoyfriend",
+    "name": "Useless Boyfriend"
+  },
+  {
+    "id": "SeniorSleepCycle",
+    "name": "Senior Sleep Cycle"
+  },
+  {
+    "id": "GoodBadGirl",
+    "name": "Good Bad Girl"
+  },
+  {
+    "id": "MilesGloriosus",
+    "name": "Miles Gloriosus"
+  },
+  {
+    "id": "WomanInWhite",
+    "name": "Woman In White"
+  },
+  {
+    "id": "TokenLesbian",
+    "name": "Token Lesbian"
+  },
+  {
+    "id": "SpicyLatina",
+    "name": "Spicy Latina"
+  },
+  {
+    "id": "Tomboy",
+    "name": "Tomboy"
+  },
+  {
+    "id": "Gayngster",
+    "name": "Gayngster"
+  },
+  {
+    "id": "FrenchMaid",
+    "name": "French Maid"
+  },
+  {
+    "id": "BlackBossLady",
+    "name": "Black Boss Lady"
+  },
+  {
+    "id": "SissyVillain",
+    "name": "Sissy Villain"
+  },
+  {
+    "id": "LadyKillerInLove",
+    "name": "Lady Killer In Love"
+  },
+  {
+    "id": "AngryBlackMan",
+    "name": "Angry Black Man"
+  },
+  {
+    "id": "MadScientistsBeautifulDaughter",
+    "name": "Mad Scientists Beautiful Daughter"
+  },
+  {
+    "id": "DumbMuscle",
+    "name": "Dumb Muscle"
+  },
+  {
+    "id": "PrincelyYoungMan",
+    "name": "Princely Young Man"
+  },
+  {
+    "id": "HugeSchoolgirl",
+    "name": "Huge Schoolgirl"
+  },
+  {
+    "id": "NerdNanny",
+    "name": "Nerd Nanny"
+  },
+  {
+    "id": "WomenDrivers",
+    "name": "Women Drivers"
+  },
+  {
+    "id": "MasculinityTropes",
+    "name": "Masculinity Tropes"
+  },
+  {
+    "id": "DistractedByTheLuxury",
+    "name": "Distracted By The Luxury"
+  },
+  {
+    "id": "TheCheerleader",
+    "name": "The Cheerleader"
+  },
+  {
+    "id": "ProperLady",
+    "name": "Proper Lady"
+  },
+  {
+    "id": "GirlyGirl",
+    "name": "Girly Girl"
+  },
+  {
+    "id": "AsianAirhead",
+    "name": "Asian Airhead"
+  },
+  {
+    "id": "GamblerGroupies",
+    "name": "Gambler Groupies"
+  },
+  {
+    "id": "MysteriousProtector",
+    "name": "Mysterious Protector"
+  },
+  {
+    "id": "MrFixit",
+    "name": "Mr Fixit"
+  },
+  {
+    "id": "NonActionSnarker",
+    "name": "Non Action Snarker"
+  },
+  {
+    "id": "TopHeavyGuy",
+    "name": "Top Heavy Guy"
+  },
+  {
+    "id": "Bishonen",
+    "name": "Bishonen"
+  },
+  {
+    "id": "Ladyella",
+    "name": "Ladyella"
+  },
+  {
+    "id": "OfficerAndAGentleman",
+    "name": "Officer And AGentleman"
+  },
+  {
+    "id": "SassyBlackWoman",
+    "name": "Sassy Black Woman"
+  },
+  {
+    "id": "CoolOldLady",
+    "name": "Cool Old Lady"
+  },
+  {
+    "id": "TokenYuriGirls",
+    "name": "Token Yuri Girls"
+  },
+  {
+    "id": "AmazonBrigade",
+    "name": "Amazon Brigade"
+  },
+  {
+    "id": "UncannyValleyGirl",
+    "name": "Uncanny Valley Girl"
+  },
+  {
+    "id": "GirlPosse",
+    "name": "Girl Posse"
+  },
+  {
+    "id": "EffeminateMisogynisticGuy",
+    "name": "Effeminate Misogynistic Guy"
+  },
+  {
+    "id": "DressesGownsAndSkirts",
+    "name": "Dresses Gowns And Skirts"
+  },
+  {
+    "id": "AffirmativeActionGirl",
+    "name": "Affirmative Action Girl"
+  },
+  {
+    "id": "ThisIndexIsABitch",
+    "name": "This Index Is ABitch"
+  },
+  {
+    "id": "RichBitch",
+    "name": "Rich Bitch"
+  },
+  {
+    "id": "NinjaMaid",
+    "name": "Ninja Maid"
+  },
+  {
+    "id": "LittleOldLadyInvestigates",
+    "name": "Little Old Lady Investigates"
+  },
+  {
+    "id": "MegaTwintails",
+    "name": "Mega Twintails"
+  },
+  {
+    "id": "WhiteDwarfStarlet",
+    "name": "White Dwarf Starlet"
+  },
+  {
+    "id": "WinterRoyalLady",
+    "name": "Winter Royal Lady"
+  },
+  {
+    "id": "StraightGay",
+    "name": "Straight Gay"
+  },
+  {
+    "id": "BoyBand",
+    "name": "Boy Band"
+  },
+  {
+    "id": "LittleMissConArtist",
+    "name": "Little Miss Con Artist"
+  },
+  {
+    "id": "SchoolMarm",
+    "name": "School Marm"
+  },
+  {
+    "id": "Beastess",
+    "name": "Beastess"
+  },
+  {
+    "id": "BashBrothers",
+    "name": "Bash Brothers"
+  },
+  {
+    "id": "SouthernGentleman",
+    "name": "Southern Gentleman"
+  },
+  {
+    "id": "PrincessClassic",
+    "name": "Princess Classic"
+  },
+  {
+    "id": "TheFlapper",
+    "name": "The Flapper"
+  },
+  {
+    "id": "DamselInDistress",
+    "name": "Damsel In Distress"
+  },
+  {
+    "id": "QuicklyDemotedWoman",
+    "name": "Quickly Demoted Woman"
+  },
+  {
+    "id": "ActionGirl",
+    "name": "Action Girl"
+  },
+  {
+    "id": "MatronChaperone",
+    "name": "Matron Chaperone"
+  },
+  {
+    "id": "BeautyBrainsAndBrawn",
+    "name": "Beauty Brains And Brawn"
+  },
+  {
+    "id": "ClassyCatBurglar",
+    "name": "Classy Cat Burglar"
+  },
+  {
+    "id": "NEET",
+    "name": "NEET"
+  },
+  {
+    "id": "MataHari",
+    "name": "Mata Hari"
+  },
+  {
+    "id": "DirtyOldWoman",
+    "name": "Dirty Old Woman"
+  },
+  {
+    "id": "CrusadingWidower",
+    "name": "Crusading Widower"
+  },
+  {
+    "id": "DeterminedWidow",
+    "name": "Determined Widow"
+  },
+  {
+    "id": "TheDandy",
+    "name": "The Dandy"
+  },
+  {
+    "id": "BeautyMark",
+    "name": "Beauty Mark"
+  },
+  {
+    "id": "ExtraordinarilyEmpoweredGirl",
+    "name": "Extraordinarily Empowered Girl"
+  },
+  {
+    "id": "FragileFlower",
+    "name": "Fragile Flower"
+  },
+  {
+    "id": "PrinceCharming",
+    "name": "Prince Charming"
+  },
+  {
+    "id": "BlondesAreEvil",
+    "name": "Blondes Are Evil"
+  },
+  {
+    "id": "HumanoidFemaleAnimal",
+    "name": "Humanoid Female Animal"
+  },
+  {
+    "id": "TheCutie",
+    "name": "The Cutie"
+  },
+  {
+    "id": "TheMuse",
+    "name": "The Muse"
+  },
+  {
+    "id": "SexyManInstantHarem",
+    "name": "Sexy Man Instant Harem"
+  },
+  {
+    "id": "LipstickLesbian",
+    "name": "Lipstick Lesbian"
+  },
+  {
+    "id": "HighSchoolHustler",
+    "name": "High School Hustler"
+  },
+  {
+    "id": "ConceiveAndKill",
+    "name": "Conceive And Kill"
+  },
+  {
+    "id": "EvilRoy",
+    "name": "Evil Roy"
+  },
+  {
+    "id": "JunglePrincess",
+    "name": "Jungle Princess"
+  },
+  {
+    "id": "TheLadysFavour",
+    "name": "The Ladys Favour"
+  },
+  {
+    "id": "GirlGroup",
+    "name": "Girl Group"
+  },
+  {
+    "id": "InnocentFlowerGirl",
+    "name": "Innocent Flower Girl"
+  },
+  {
+    "id": "TerritorialSmurfette",
+    "name": "Territorial Smurfette"
+  },
+  {
+    "id": "DefectingForLove",
+    "name": "Defecting For Love"
+  },
+  {
+    "id": "BedlahBabe",
+    "name": "Bedlah Babe"
+  },
+  {
+    "id": "PregnantBadass",
+    "name": "Pregnant Badass"
+  },
+  {
+    "id": "EmotionlessGirl",
+    "name": "Emotionless Girl"
+  },
+  {
+    "id": "WorldsMostBeautifulWoman",
+    "name": "Worlds Most Beautiful Woman"
+  },
+  {
+    "id": "PervertDad",
+    "name": "Pervert Dad"
+  },
+  {
+    "id": "YokoOhNo",
+    "name": "Yoko Oh No"
+  },
+  {
+    "id": "SchoolgirlLesbians",
+    "name": "Schoolgirl Lesbians"
+  },
+  {
+    "id": "TheFakeCutie",
+    "name": "The Fake Cutie"
+  },
+  {
+    "id": "NeverASelfMadeWoman",
+    "name": "Never ASelf Made Woman"
+  },
+  {
+    "id": "CrazyCatLady",
+    "name": "Crazy Cat Lady"
+  },
+  {
+    "id": "MonogenderMonsters",
+    "name": "Monogender Monsters"
+  },
+  {
+    "id": "FiremenAreHot",
+    "name": "Firemen Are Hot"
+  },
+  {
+    "id": "CircumcisionAngst",
+    "name": "Circumcision Angst"
+  },
+  {
+    "id": "FeminineWomenCanCook",
+    "name": "Feminine Women Can Cook"
+  },
+  {
+    "id": "Streetwalker",
+    "name": "Streetwalker"
+  },
+  {
+    "id": "BeardnessProtectionProgram",
+    "name": "Beardness Protection Program"
+  },
+  {
+    "id": "LadyOfBlackMagic",
+    "name": "Lady Of Black Magic"
+  },
+  {
+    "id": "ArmouredClosetGay",
+    "name": "Armoured Closet Gay"
+  },
+  {
+    "id": "SportsWidow",
+    "name": "Sports Widow"
+  },
+  {
+    "id": "MillionairePlayboy",
+    "name": "Millionaire Playboy"
+  },
+  {
+    "id": "AnimeChineseGirl",
+    "name": "Anime Chinese Girl"
+  },
+  {
+    "id": "Hunk",
+    "name": "Hunk"
+  },
+  {
+    "id": "ScaryBlackMan",
+    "name": "Scary Black Man"
+  },
+  {
+    "id": "FanserviceExtra",
+    "name": "Fanservice Extra"
+  },
+  {
+    "id": "GirlsWithMoustaches",
+    "name": "Girls With Moustaches"
+  },
+  {
+    "id": "PrinceCharmingWannabe",
+    "name": "Prince Charming Wannabe"
+  },
+  {
+    "id": "LesbianJock",
+    "name": "Lesbian Jock"
+  },
+  {
+    "id": "ChickMagnet",
+    "name": "Chick Magnet"
+  },
+  {
+    "id": "BadassGrandpa",
+    "name": "Badass Grandpa"
+  },
+  {
+    "id": "LesbianVampire",
+    "name": "Lesbian Vampire"
+  },
+  {
+    "id": "LeatherMan",
+    "name": "Leather Man"
+  },
+  {
+    "id": "StumblingUponTheLostWizard",
+    "name": "Stumbling Upon The Lost Wizard"
+  },
+  {
+    "id": "FemaleMonsterSurprise",
+    "name": "Female Monster Surprise"
+  },
+  {
+    "id": "KidAnova",
+    "name": "Kid Anova"
+  },
+  {
+    "id": "BikerBabe",
+    "name": "Biker Babe"
+  },
+  {
+    "id": "HookerWithAHeartOfGold",
+    "name": "Hooker With AHeart Of Gold"
+  },
+  {
+    "id": "PluckyGirl",
+    "name": "Plucky Girl"
+  }
+]
