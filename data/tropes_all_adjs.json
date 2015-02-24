@@ -1,0 +1,2877 @@
+[
+  {
+    "id": "AbsentMindedProfessor",
+    "name": "Absent Minded Professor",
+    "adjs": "absent-minded mathematical scientific flighty brilliant"
+  },
+  {
+    "id": "AcceptableFeminineGoalsAndTraits",
+    "name": "Acceptable Feminine Goals And Traits",
+    "adjs": "strong wrench masculine female certain"
+  },
+  {
+    "id": "AccidentalPornomancer",
+    "name": "Accidental Pornomancer",
+    "adjs": "weird inconsequential non-consensual apathetic ditzy"
+  },
+  {
+    "id": "ActionDad",
+    "name": "Action Dad",
+    "adjs": "beat touch protective kid main"
+  },
+  {
+    "id": "ActionGirl",
+    "name": "Action Girl",
+    "adjs": "curb-stomp very far-more-aggressive full-on helpless"
+  },
+  {
+    "id": "ActionGirlFriend",
+    "name": "Action Girl Friend",
+    "adjs": "ordinary invincible fateful vulnerable subject"
+  },
+  {
+    "id": "ActionHeroBabysitter",
+    "name": "Action Hero Babysitter",
+    "adjs": "domestic unusual important new humorous"
+  },
+  {
+    "id": "ActionMom",
+    "name": "Action Mom",
+    "adjs": "hazardous third pregnant real such"
+  },
+  {
+    "id": "AdrenalineMakeover",
+    "name": "Adrenaline Makeover",
+    "adjs": "shy gorgeous mousy blinded de-frump"
+  },
+  {
+    "id": "AffirmativeActionGirl",
+    "name": "Affirmative Action Girl",
+    "adjs": "affirmative pre-existing formative racial all-male"
+  },
+  {
+    "id": "AgentPeacock",
+    "name": "Agent Peacock",
+    "adjs": "tactic military girly-ness detestable campy"
+  },
+  {
+    "id": "ALadyOnEachArm",
+    "name": "ALady On Each Arm",
+    "adjs": "they’re sexual mid-scene promotional won’t"
+  },
+  {
+    "id": "AlphaBitch",
+    "name": "Alpha Bitch",
+    "adjs": "influential jealousy-fueled mean-spirited unpleasant knew"
+  },
+  {
+    "id": "AmazonBrigade",
+    "name": "Amazon Brigade",
+    "adjs": "humongous elite wealthy entire close"
+  },
+  {
+    "id": "AmazonChaser",
+    "name": "Amazon Chaser",
+    "adjs": "geographic amazon-ness strong attractive in-universe"
+  },
+  {
+    "id": "AmazonianBeauty",
+    "name": "Amazonian Beauty",
+    "adjs": "large slippery super-strong bulky integral"
+  },
+  {
+    "id": "AngryBlackMan",
+    "name": "Angry Black Man",
+    "adjs": "hair-trigger betrayal destitute capable white"
+  },
+  {
+    "id": "AnimeChineseGirl",
+    "name": "Anime Chinese Girl",
+    "adjs": "chinese long-running variable martial weird"
+  },
+  {
+    "id": "ApronMatron",
+    "name": "Apron Matron",
+    "adjs": "forceful prestige naught malicious combat"
+  },
+  {
+    "id": "ArabOilSheikh",
+    "name": "Arab Oil Sheikh",
+    "adjs": "rich keffiyeh indispensable monetary kidnap-rape-love"
+  },
+  {
+    "id": "ArchnemesisDad",
+    "name": "Archnemesis Dad",
+    "adjs": "patriarchal crucial cold-hearted dad mundane"
+  },
+  {
+    "id": "ArmouredClosetGay",
+    "name": "Armoured Closet Gay",
+    "adjs": "non-flamboyant self-tormented self-loathing vocal violent"
+  },
+  {
+    "id": "AsianAirhead",
+    "name": "Asian Airhead",
+    "adjs": "asian chinese rich in-your-face co-star"
+  },
+  {
+    "id": "AsianBabymama",
+    "name": "Asian Babymama",
+    "adjs": "asian eurasian motive birth martial"
+  },
+  {
+    "id": "AsianHookerStereotype",
+    "name": "Asian Hooker Stereotype",
+    "adjs": "asian non-asian fellow 'bad call-girl"
+  },
+  {
+    "id": "BadassBaritone",
+    "name": "Badass Baritone",
+    "adjs": "possible evil such"
+  },
+  {
+    "id": "BadAssBeard",
+    "name": "Bad Ass Beard",
+    "adjs": "veritable foolish upper facial simple"
+  },
+  {
+    "id": "BadassGrandpa",
+    "name": "Badass Grandpa",
+    "adjs": "bad-ass obi-wan old quiet characteristic"
+  },
+  {
+    "id": "BadAssMustache",
+    "name": "Bad Ass Mustache",
+    "adjs": "quick established present easy few"
+  },
+  {
+    "id": "BadassPrincess",
+    "name": "Badass Princess",
+    "adjs": "pimped-out automatic forth friendly evil"
+  },
+  {
+    "id": "BaitAndSwitchLesbians",
+    "name": "Bait And Switch Lesbians",
+    "adjs": "last lesbian hypocritical persistent unintentional"
+  },
+  {
+    "id": "BaldBlackLeaderGuy",
+    "name": "Bald Black Leader Guy",
+    "adjs": "black outfit—or no-nonsense sure good"
+  },
+  {
+    "id": "BarbaricBully",
+    "name": "Barbaric Bully",
+    "adjs": "psychological thuggish verbal physical simple"
+  },
+  {
+    "id": "BasementDweller",
+    "name": "Basement Dweller",
+    "adjs": "unable poster-gallery working-age outside following"
+  },
+  {
+    "id": "BashBrothers",
+    "name": "Bash Brothers",
+    "adjs": "short big other drive combative"
+  },
+  {
+    "id": "BassoProfundo",
+    "name": "Basso Profundo",
+    "adjs": "technical low able normal full"
+  },
+  {
+    "id": "BastardBastard",
+    "name": "Bastard Bastard",
+    "adjs": "literal relevant offspring—making compare modern"
+  },
+  {
+    "id": "BastardBoyfriend",
+    "name": "Bastard Boyfriend",
+    "adjs": "hot sarcastic abusive kinky jealousy"
+  },
+  {
+    "id": "BastardGirlfriend",
+    "name": "Bastard Girlfriend",
+    "adjs": "sexy sexual immature/unexperienced funny-type trashy"
+  },
+  {
+    "id": "BathingBeauty",
+    "name": "Bathing Beauty",
+    "adjs": "awkwardly-placed orgasmic filthy iconic significant"
+  },
+  {
+    "id": "BattleaxeNurse",
+    "name": "Battleaxe Nurse",
+    "adjs": "joy hospital angelic australian sadistic"
+  },
+  {
+    "id": "BattleButler",
+    "name": "Battle Butler",
+    "adjs": "appropriate high-ranking eponymous combat effective"
+  },
+  {
+    "id": "BeardnessProtectionProgram",
+    "name": "Beardness Protection Program",
+    "adjs": "figurative crazy-prepared able important similar"
+  },
+  {
+    "id": "BeardOfBarbarism",
+    "name": "Beard Of Barbarism",
+    "adjs": "civilized barbaric 'barbarian determine barbarian"
+  },
+  {
+    "id": "BeardOfEvil",
+    "name": "Beard Of Evil",
+    "adjs": "facial 16th-century shaven o'clock clean-shaven"
+  },
+  {
+    "id": "BeardOfSorrow",
+    "name": "Beard Of Sorrow",
+    "adjs": "stubble stubble/an face-heel facial personal"
+  },
+  {
+    "id": "Beastess",
+    "name": "Beastess",
+    "adjs": "way—whether animalistic primitive beast barbarian"
+  },
+  {
+    "id": "BeautifulAllAlong",
+    "name": "Beautiful All Along",
+    "adjs": "want ugly beautiful used along"
+  },
+  {
+    "id": "BeautifulSlaveGirl",
+    "name": "Beautiful Slave Girl",
+    "adjs": "beautiful go-go post-puberty fair likely"
+  },
+  {
+    "id": "BeautyBrainsAndBrawn",
+    "name": "Beauty Brains And Brawn",
+    "adjs": "tough related other popular common"
+  },
+  {
+    "id": "BeautyMark",
+    "name": "Beauty Mark",
+    "adjs": "facial tear mole plain 18th"
+  },
+  {
+    "id": "BedlahBabe",
+    "name": "Bedlah Babe",
+    "adjs": "arabian arabian-influenced essential optional real-life"
+  },
+  {
+    "id": "BellyDancer",
+    "name": "Belly Dancer",
+    "adjs": "midriff-revealing abdominal sophisticated religious pregnant"
+  },
+  {
+    "id": "BespectacledBastardBoyfriend",
+    "name": "Bespectacled Bastard Boyfriend",
+    "adjs": "sophisticated kinky romantic expensive good-looking"
+  },
+  {
+    "id": "BigBeautifulMan",
+    "name": "Big Beautiful Man",
+    "adjs": "fat acrofatic include gay-for-oneself large-set"
+  },
+  {
+    "id": "BigBeautifulWoman",
+    "name": "Big Beautiful Woman",
+    "adjs": "well-adjusted knock-out full-figured advantaged heavy-set"
+  },
+  {
+    "id": "BiggerIsBetterInBed",
+    "name": "Bigger Is Better In Bed",
+    "adjs": "big precise pov-character small well-endowed"
+  },
+  {
+    "id": "BigManOnCampus",
+    "name": "Big Man On Campus",
+    "adjs": "popular awful well-read affable athletic"
+  },
+  {
+    "id": "BikerBabe",
+    "name": "Biker Babe",
+    "adjs": "nearby wear decorative messy conducive"
+  },
+  {
+    "id": "BirthTropes",
+    "name": "Birth Tropes",
+    "adjs": "brave new"
+  },
+  {
+    "id": "Bishonen",
+    "name": "Bishonen",
+    "adjs": "bishōnen aesthetic androgynous beautiful lexical"
+  },
+  {
+    "id": "BlackBossLady",
+    "name": "Black Boss Lady",
+    "adjs": "worthwhile risque smart-alec two-point-five afraid"
+  },
+  {
+    "id": "BlackMagicianGirl",
+    "name": "Black Magician Girl",
+    "adjs": "fantasy heat ranged improbable impractical"
+  },
+  {
+    "id": "BlackWidow",
+    "name": "Black Widow",
+    "adjs": "black husbands/love conceive australian nefarious"
+  },
+  {
+    "id": "BlondeRepublicanSexKitten",
+    "name": "Blonde Republican Sex Kitten",
+    "adjs": "political republican established hypersexualized stuffy"
+  },
+  {
+    "id": "BlondesAreEvil",
+    "name": "Blondes Are Evil",
+    "adjs": "natural correlate evil dark-haired critical"
+  },
+  {
+    "id": "BlondGuysAreEvil",
+    "name": "Blond Guys Are Evil",
+    "adjs": "dark-haired evil red-haired fair-haired blond"
+  },
+  {
+    "id": "BodyguardBabes",
+    "name": "Bodyguard Babes",
+    "adjs": "hero/player mandatory paid-for elite short"
+  },
+  {
+    "id": "BoobsOfSteel",
+    "name": "Boobs Of Steel",
+    "adjs": "ignored common general physical strong"
+  },
+  {
+    "id": "BoyBand",
+    "name": "Boy Band",
+    "adjs": "successful famous likely young/has u-kiss"
+  },
+  {
+    "id": "BrattyTeenageDaughter",
+    "name": "Bratty Teenage Daughter",
+    "adjs": "natural whiny averse self-involved level-headed"
+  },
+  {
+    "id": "BrawnHilda",
+    "name": "Brawn Hilda",
+    "adjs": "brünnhilde mannish amazonian unattractive stereotypical"
+  },
+  {
+    "id": "Bridezilla",
+    "name": "Bridezilla",
+    "adjs": "wedding-related insignificant limited well-known unrealistic"
+  },
+  {
+    "id": "BridgeBunnies",
+    "name": "Bridge Bunnies",
+    "adjs": "junior applicable menial senior competent"
+  },
+  {
+    "id": "BrokenBird",
+    "name": "Broken Bird",
+    "adjs": "past emotional traumatic anti-hero stoic"
+  },
+  {
+    "id": "BromanticFoil",
+    "name": "Bromantic Foil",
+    "adjs": "main abrasive sigh chivalrous open"
+  },
+  {
+    "id": "BumblingDad",
+    "name": "Bumbling Dad",
+    "adjs": "comparative stagnant gluttonous miscellaneous slack"
+  },
+  {
+    "id": "ButchLesbian",
+    "name": "Butch Lesbian",
+    "adjs": "several breast-binding sporty stick un-feminine"
+  },
+  {
+    "id": "ButterFace",
+    "name": "Butter Face",
+    "adjs": "beautiful 'er coño impolite schön"
+  },
+  {
+    "id": "CampFollower",
+    "name": "Camp Follower",
+    "adjs": "scared socioeconomic mid-19th daily later"
+  },
+  {
+    "id": "CampGay",
+    "name": "Camp Gay",
+    "adjs": "homosexual male-specific backwoodsman-styled one-off uber-"
+  },
+  {
+    "id": "CampStraight",
+    "name": "Camp Straight",
+    "adjs": "heterosexual 'camp ''stereotypical flamboyant gay"
+  },
+  {
+    "id": "CarpetOfVirility",
+    "name": "Carpet Of Virility",
+    "adjs": "opened hyper-masculine prime-grade tank-top unhygienic"
+  },
+  {
+    "id": "CasanovaWannabe",
+    "name": "Casanova Wannabe",
+    "adjs": "phony bought-and-paid-for rite-of-passage embarrassing tearful"
+  },
+  {
+    "id": "CatholicSchoolGirlsRule",
+    "name": "Catholic School Girls Rule",
+    "adjs": "old plaid taught hormonal identical"
+  },
+  {
+    "id": "Chickification",
+    "name": "Chickification",
+    "adjs": "executive girly-girl girlish formal tomboyish"
+  },
+  {
+    "id": "ChickMagnet",
+    "name": "Chick Magnet",
+    "adjs": "if/when fast real-world charismatic various"
+  },
+  {
+    "id": "ChildSoldiers",
+    "name": "Child Soldiers",
+    "adjs": "former pragmatic reprehensible shell-shocked broadcast"
+  },
+  {
+    "id": "ChippendalesDancers",
+    "name": "Chippendales Dancers",
+    "adjs": "female-only 'fulfilling net 'male fanservice-y"
+  },
+  {
+    "id": "ChivalrousPervert",
+    "name": "Chivalrous Pervert",
+    "adjs": "chivalrous complex immoral guilty loose"
+  },
+  {
+    "id": "CircumcisionAngst",
+    "name": "Circumcision Angst",
+    "adjs": "receive angst requisite find medical"
+  },
+  {
+    "id": "ClassyCatBurglar",
+    "name": "Classy Cat Burglar",
+    "adjs": "escape/knock well-guarded best-protected darkened felonious"
+  },
+  {
+    "id": "ClingyJealousGirl",
+    "name": "Clingy Jealous Girl",
+    "adjs": "fondly-regarded hydraulic armor-piercing possessive affectionate"
+  },
+  {
+    "id": "CockFight",
+    "name": "Cock Fight",
+    "adjs": "animal double-meaning reproductive symbolic probable"
+  },
+  {
+    "id": "CollegeWidow",
+    "name": "College Widow",
+    "adjs": "healthy young sexual local singlehanded"
+  },
+  {
+    "id": "ConceiveAndKill",
+    "name": "Conceive And Kill",
+    "adjs": "legal whole various black obvious"
+  },
+  {
+    "id": "ContraltoOfDanger",
+    "name": "Contralto Of Danger",
+    "adjs": "higher-pitched mystical super-powered sure tough"
+  },
+  {
+    "id": "CoolBigSis",
+    "name": "Cool Big Sis",
+    "adjs": "become persistent level-headed admire nice"
+  },
+  {
+    "id": "CoolOldGuy",
+    "name": "Cool Old Guy",
+    "adjs": "cast non-clean median middle minimum"
+  },
+  {
+    "id": "CoolOldLady",
+    "name": "Cool Old Lady",
+    "adjs": "episode's/story current cool dramatic low"
+  },
+  {
+    "id": "CorruptHick",
+    "name": "Corrupt Hick",
+    "adjs": "corrupt rural full-out modern-day dollar"
+  },
+  {
+    "id": "CosplayOtakuGirl",
+    "name": "Cosplay Otaku Girl",
+    "adjs": "noticeable fetish second cast stereotypical"
+  },
+  {
+    "id": "CrazyCatLady",
+    "name": "Crazy Cat Lady",
+    "adjs": "animal diversified psychiatric stand-in eccentric"
+  },
+  {
+    "id": "CrazyJealousGuy",
+    "name": "Crazy Jealous Guy",
+    "adjs": "jealous ear girl/guy paranoid comedy"
+  },
+  {
+    "id": "CreepyHouseKeeper",
+    "name": "Creepy House Keeper",
+    "adjs": "torrential supernatural huge new large"
+  },
+  {
+    "id": "CrusadingWidower",
+    "name": "Crusading Widower",
+    "adjs": "survive horrible daddy glorious anti-villain"
+  },
+  {
+    "id": "CrustyCaretaker",
+    "name": "Crusty Caretaker",
+    "adjs": "crusty rough popular"
+  },
+  {
+    "id": "CulturedBadass",
+    "name": "Cultured Badass",
+    "adjs": "trope-brother moët hairy-knuckled spiritual boisterous"
+  },
+  {
+    "id": "CuteClumsyGirl",
+    "name": "Cute Clumsy Girl",
+    "adjs": "anime-specific rueful straight-up approachable smile"
+  },
+  {
+    "id": "CuteGhostGirl",
+    "name": "Cute Ghost Girl",
+    "adjs": "cast normal of/curse stringy-haired artificial"
+  },
+  {
+    "id": "CuteMonsterGirl",
+    "name": "Cute Monster Girl",
+    "adjs": "monstrous attractive attractive/less anomalous previously-existing"
+  },
+  {
+    "id": "CuteSportsClubManager",
+    "name": "Cute Sports Club Manager",
+    "adjs": "official such shippable unofficial viable"
+  },
+  {
+    "id": "CuteWitch",
+    "name": "Cute Witch",
+    "adjs": "original magic magical non-flashy queen—if"
+  },
+  {
+    "id": "DaddysGirl",
+    "name": "Daddys Girl",
+    "adjs": "protective father-figure flip-side awkward self-made"
+  },
+  {
+    "id": "DaddysLittleVillain",
+    "name": "Daddys Little Villain",
+    "adjs": "asian-themed daughter/niece/granddaughter/etc self-made likely above"
+  },
+  {
+    "id": "DadTheVeteran",
+    "name": "Dad The Veteran",
+    "adjs": "tough military not-so-casual tyrannical ongoing"
+  },
+  {
+    "id": "DamselErrant",
+    "name": "Damsel Errant",
+    "adjs": "complementary faithful right magical few"
+  },
+  {
+    "id": "DamselInDistress",
+    "name": "Damsel In Distress",
+    "adjs": "valuable play-along aside sexist immediate"
+  },
+  {
+    "id": "DamselOutOfDistress",
+    "name": "Damsel Out Of Distress",
+    "adjs": "skillful defiant inexplicable prim own"
+  },
+  {
+    "id": "DarkActionGirl",
+    "name": "Dark Action Girl",
+    "adjs": "reluctant tougher-looking carefree killed resistant"
+  },
+  {
+    "id": "DarkMagicalGirl",
+    "name": "Dark Magical Girl",
+    "adjs": "magical dark evil school—they fetishy"
+  },
+  {
+    "id": "DarkMistress",
+    "name": "Dark Mistress",
+    "adjs": "evil criminal bright sadistic open"
+  },
+  {
+    "id": "DastardlyWhiplash",
+    "name": "Dastardly Whiplash",
+    "adjs": "elaborate do-right hunched sidekick/henchman to-day"
+  },
+  {
+    "id": "DecoyDamsel",
+    "name": "Decoy Damsel",
+    "adjs": "trouble straight due own good"
+  },
+  {
+    "id": "DefectingForLove",
+    "name": "Defecting For Love",
+    "adjs": "sunset love ordinary primary capable"
+  },
+  {
+    "id": "DeliberatelyDistressedDamsel",
+    "name": "Deliberately Distressed Damsel",
+    "adjs": "weak necessary true first own"
+  },
+  {
+    "id": "DepravedHomosexual",
+    "name": "Depraved Homosexual",
+    "adjs": "monosexual unrequited only sexual surprising"
+  },
+  {
+    "id": "DeterminedHomesteadersWife",
+    "name": "Determined Homesteaders Wife",
+    "adjs": "handy strong-willed main"
+  },
+  {
+    "id": "DeterminedWidow",
+    "name": "Determined Widow",
+    "adjs": "assertive common likely warrior passive"
+  },
+  {
+    "id": "DirtyCoward",
+    "name": "Dirty Coward",
+    "adjs": "shot magnificent dubious short-sighted unremarkable"
+  },
+  {
+    "id": "DirtyHarriet",
+    "name": "Dirty Harriet",
+    "adjs": "would-be delicate controversial wrong natural"
+  },
+  {
+    "id": "DirtyOldMan",
+    "name": "Dirty Old Man",
+    "adjs": "hoary-headed repulsive conspicuous coat delightful"
+  },
+  {
+    "id": "DirtyOldWoman",
+    "name": "Dirty Old Woman",
+    "adjs": "entendre-laden adventurous much occasional uncommon"
+  },
+  {
+    "id": "DisappearedDad",
+    "name": "Disappeared Dad",
+    "adjs": "dead negligent fatherly childbirth absent"
+  },
+  {
+    "id": "DisguisedInDrag",
+    "name": "Disguised In Drag",
+    "adjs": "square broad necessary likely and/or"
+  },
+  {
+    "id": "DisposableSexWorker",
+    "name": "Disposable Sex Worker",
+    "adjs": "serial sex-worker deserve first/only women—to"
+  },
+  {
+    "id": "DistractedByTheLuxury",
+    "name": "Distracted By The Luxury",
+    "adjs": "jewelry luxurious wife/girlfriend expensive trouble"
+  },
+  {
+    "id": "DistressedDude",
+    "name": "Distressed Dude",
+    "adjs": "twentieth-century butt-kicking male direct uncommon"
+  },
+  {
+    "id": "DoggedNiceGuy",
+    "name": "Dogged Nice Guy",
+    "adjs": "romantic recent natural-looking interim dogged"
+  },
+  {
+    "id": "Dominatrix",
+    "name": "Dominatrix",
+    "adjs": "dominant thigh-high masochistic fetish-fuel grateful"
+  },
+  {
+    "id": "DragonLady",
+    "name": "Dragon Lady",
+    "adjs": "chinese asian concealed commonsensical perennial"
+  },
+  {
+    "id": "DressesGownsAndSkirts",
+    "name": "Dresses Gowns And Skirts",
+    "adjs": "skimpy integral prominent potential major"
+  },
+  {
+    "id": "DrillSergeantNasty",
+    "name": "Drill Sergeant Nasty",
+    "adjs": "military counterproductive derogatory fire arbitrary"
+  },
+  {
+    "id": "DudeLooksLikeALady",
+    "name": "Dude Looks Like ALady",
+    "adjs": "crüe 'nother gender-reveal androgynous-looking snazzy"
+  },
+  {
+    "id": "DumbassTeenageSon",
+    "name": "Dumbass Teenage Son",
+    "adjs": "basement-dweller nuclear over-dramatic knowledgeable following"
+  },
+  {
+    "id": "DumbMuscle",
+    "name": "Dumb Muscle",
+    "adjs": "tiny-headed ultra-rare dim top-heavy proportional"
+  },
+  {
+    "id": "EarthMother",
+    "name": "Earth Mother",
+    "adjs": "big vengeful fertile bountiful cranky"
+  },
+  {
+    "id": "EducationMama",
+    "name": "Education Mama",
+    "adjs": "asian pear-shaped cutthroat diametric pervasive"
+  },
+  {
+    "id": "EffeminateMisogynisticGuy",
+    "name": "Effeminate Misogynistic Guy",
+    "adjs": "misandrous similar he-man misogynistic odd"
+  },
+  {
+    "id": "ElegantGothicLolita",
+    "name": "Elegant Gothic Lolita",
+    "adjs": "sub-style loligoth moi-meme-moitie gothic accurate"
+  },
+  {
+    "id": "EmotionlessGirl",
+    "name": "Emotionless Girl",
+    "adjs": "social emotional disturbing enigmatic tremendous"
+  },
+  {
+    "id": "EstrogenBrigade",
+    "name": "Estrogen Brigade",
+    "adjs": "particular defensive invalidate opposite-sex happen"
+  },
+  {
+    "id": "EunuchsAreEvil",
+    "name": "Eunuchs Are Evil",
+    "adjs": "chaste prevalent creepy effeminate supernatural"
+  },
+  {
+    "id": "EvenTheGirlsWantHer",
+    "name": "Even The Girls Want Her",
+    "adjs": "athletic female mingle hard-and-fast case-by-base"
+  },
+  {
+    "id": "EverythingsBetterWithPrincesses",
+    "name": "Everythings Better With Princesses",
+    "adjs": "easy ill-prepared genetic marketable middle-aged"
+  },
+  {
+    "id": "EvilDiva",
+    "name": "Evil Diva",
+    "adjs": "poster-child sudden wonderful webcomic his/her"
+  },
+  {
+    "id": "EvilMatriarch",
+    "name": "Evil Matriarch",
+    "adjs": "lucky evil central mundane destructive"
+  },
+  {
+    "id": "EvilRoy",
+    "name": "Evil Roy",
+    "adjs": "wanted privileged lovable"
+  },
+  {
+    "id": "ExtraordinarilyEmpoweredGirl",
+    "name": "Extraordinarily Empowered Girl",
+    "adjs": "extra 'non-superpowered willed extraordinary busty"
+  },
+  {
+    "id": "FalseWidow",
+    "name": "False Widow",
+    "adjs": "colloquial married"
+  },
+  {
+    "id": "Fangirl",
+    "name": "Fangirl",
+    "adjs": "scary fond earth-shattering simplistic f-a-n-g"
+  },
+  {
+    "id": "FanserviceExtra",
+    "name": "Fanservice Extra",
+    "adjs": "appear “exactly forgettable moment “topless"
+  },
+  {
+    "id": "FarmersDaughter",
+    "name": "Farmers Daughter",
+    "adjs": "aggressive among ain’t ''pretend dress"
+  },
+  {
+    "id": "FatGirl",
+    "name": "Fat Girl",
+    "adjs": "unconventional unimportant main all-american thin"
+  },
+  {
+    "id": "FatherNeptune",
+    "name": "Father Neptune",
+    "adjs": "foc'sle likely"
+  },
+  {
+    "id": "FatSweatySouthernerInAWhiteSuit",
+    "name": "Fat Sweaty Southerner In AWhite Suit",
+    "adjs": "villainous sweaty obese optional hot"
+  },
+  {
+    "id": "FauxActionGirl",
+    "name": "Faux Action Girl",
+    "adjs": "established capable kidnap/capture entail experience/fame"
+  },
+  {
+    "id": "FavorsForTheSexy",
+    "name": "Favors For The Sexy",
+    "adjs": "female-oriented disastrous recipient lust aware"
+  },
+  {
+    "id": "FemaleMisogynist",
+    "name": "Female Misogynist",
+    "adjs": "''better self-hating honorary medic inferior"
+  },
+  {
+    "id": "FemaleMonsterSurprise",
+    "name": "Female Monster Surprise",
+    "adjs": "hideous a-and squicky male female"
+  },
+  {
+    "id": "FeminineWomenCanCook",
+    "name": "Feminine Women Can Cook",
+    "adjs": "professional domestically-focused victim adequate wife-like"
+  },
+  {
+    "id": "FemininityFailure",
+    "name": "Femininity Failure",
+    "adjs": "tumble swear/gobble food/belch prim comfortable"
+  },
+  {
+    "id": "FemininityTropes",
+    "name": "Femininity Tropes",
+    "adjs": "exact weak strong such"
+  },
+  {
+    "id": "FemmeFatale",
+    "name": "Femme Fatale",
+    "adjs": "trouble tell-tale 'd undeniable colour-coded"
+  },
+  {
+    "id": "FilleFatale",
+    "name": "Fille Fatale",
+    "adjs": "behavior statutory teacher/student fatal music"
+  },
+  {
+    "id": "FinalGirl",
+    "name": "Final Girl",
+    "adjs": "interesting last resourceful avoid promiscuous"
+  },
+  {
+    "id": "FiremenAreHot",
+    "name": "Firemen Are Hot",
+    "adjs": "prime occupational good-looking heavy potential"
+  },
+  {
+    "id": "FourGirlEnsemble",
+    "name": "Four Girl Ensemble",
+    "adjs": "four-temperament related"
+  },
+  {
+    "id": "FragileFlower",
+    "name": "Fragile Flower",
+    "adjs": "fragile super cry desensitized harsh"
+  },
+  {
+    "id": "Fratbro",
+    "name": "Fratbro",
+    "adjs": "fratboy-ish toss-up depraved bromantic big"
+  },
+  {
+    "id": "FrenchMaid",
+    "name": "French Maid",
+    "adjs": "french over-exaggerated inasmuch fan snippy"
+  },
+  {
+    "id": "Fundoshi",
+    "name": "Fundoshi",
+    "adjs": "underwear japanese traditional western-style swimwear"
+  },
+  {
+    "id": "FurryBaldness",
+    "name": "Furry Baldness",
+    "adjs": "hair additional regular weird animal"
+  },
+  {
+    "id": "GagBoobs",
+    "name": "Gag Boobs",
+    "adjs": "boyish-looking gainaxing/jiggle physical cartoonish widespread"
+  },
+  {
+    "id": "GagPenis",
+    "name": "Gag Penis",
+    "adjs": "giant sequential garden 'gag 'joke"
+  },
+  {
+    "id": "GalleySlave",
+    "name": "Galley Slave",
+    "adjs": "free full alongside friendly ancient"
+  },
+  {
+    "id": "GamblerGroupies",
+    "name": "Gambler Groupies",
+    "adjs": "—and classy sexy few good"
+  },
+  {
+    "id": "GamerChick",
+    "name": "Gamer Chick",
+    "adjs": "well-kempt self-aware confrontational misogynistic meant"
+  },
+  {
+    "id": "GaussianGirl",
+    "name": "Gaussian Girl",
+    "adjs": "soft soft-focus blurry gaussian starry-glare"
+  },
+  {
+    "id": "GayBravado",
+    "name": "Gay Bravado",
+    "adjs": "homoerotic uncomfortable heterosexual unflappable intentional"
+  },
+  {
+    "id": "GayCowboy",
+    "name": "Gay Cowboy",
+    "adjs": "leather-clad western-flavored many stereotypical important"
+  },
+  {
+    "id": "Gayngster",
+    "name": "Gayngster",
+    "adjs": "un-masculine brutal homosexual open british"
+  },
+  {
+    "id": "GenderInvertedTrope",
+    "name": "Gender Inverted Trope",
+    "adjs": "different vocabulary gender-inverted gypsy indian"
+  },
+  {
+    "id": "GENTLEMANADVENTURER",
+    "name": "Gentleman Adventurer",
+    "adjs": "heroic/patriotic probable lust wealthy much"
+  },
+  {
+    "id": "GentlemanDetective",
+    "name": "Gentleman Detective",
+    "adjs": "autodidactic multilingual well-read well-educated privileged"
+  },
+  {
+    "id": "GentlemanThief",
+    "name": "Gentleman Thief",
+    "adjs": "cat-burglar rich challenge/pleasure tournament-grade adversarial"
+  },
+  {
+    "id": "GentlemanWizard",
+    "name": "Gentleman Wizard",
+    "adjs": "magic magician walking-stick untrustworthy edwardian"
+  },
+  {
+    "id": "GIRL",
+    "name": "GIRL",
+    "adjs": "regular sisters/daughters/nieces/female grateful true neutral"
+  },
+  {
+    "id": "GirlFriday",
+    "name": "Girl Friday",
+    "adjs": "critical editor/ex-husband full-fledged plenty song"
+  },
+  {
+    "id": "GirlGroup",
+    "name": "Girl Group",
+    "adjs": "all-female sizable massive sharp equal"
+  },
+  {
+    "id": "GirlInABox",
+    "name": "Girl In ABox",
+    "adjs": "fetal benign neutral song dead"
+  },
+  {
+    "id": "GirlInTheTower",
+    "name": "Girl In The Tower",
+    "adjs": "royal invaluable later standard whole"
+  },
+  {
+    "id": "GirlishPigtails",
+    "name": "Girlish Pigtails",
+    "adjs": "dual tsun-tsun/dere-dere indicative playful child-like"
+  },
+  {
+    "id": "GirlNextDoor",
+    "name": "Girl Next Door",
+    "adjs": "male accessible arrogant all-american promiscuous"
+  },
+  {
+    "id": "GirlOfTheWeek",
+    "name": "Girl Of The Week",
+    "adjs": "passionate mutual wacky initial serial"
+  },
+  {
+    "id": "GirlPosse",
+    "name": "Girl Posse",
+    "adjs": "devoted attitudes—sort developed second-in-command high"
+  },
+  {
+    "id": "GirlsLoveStuffedAnimals",
+    "name": "Girls Love Stuffed Animals",
+    "adjs": "stuffed bratty girlie youthful give"
+  },
+  {
+    "id": "GirlsWithGuns",
+    "name": "Girls With Guns",
+    "adjs": "small subtrope—girls yeah-heh sub-genre martial"
+  },
+  {
+    "id": "GirlsWithMoustaches",
+    "name": "Girls With Moustaches",
+    "adjs": "appear female similar due common"
+  },
+  {
+    "id": "GirlWithPsychoWeapon",
+    "name": "Girl With Psycho Weapon",
+    "adjs": "sweet-looking murderous ax-crazy scary cute"
+  },
+  {
+    "id": "GirlyBruiser",
+    "name": "Girly Bruiser",
+    "adjs": "ass-kicking make-up prevalent fashionable elegant"
+  },
+  {
+    "id": "GirlyGirl",
+    "name": "Girly Girl",
+    "adjs": "essential free local specific various"
+  },
+  {
+    "id": "GlamorousSingleMother",
+    "name": "Glamorous Single Mother",
+    "adjs": "day-job indistinguishable upper-middle-class coincidental kids-"
+  },
+  {
+    "id": "GlamorousWartimeSinger",
+    "name": "Glamorous Wartime Singer",
+    "adjs": "wolf-whistling wartime soldiers/sailors/airmen sentimental main"
+  },
+  {
+    "id": "GodivaHair",
+    "name": "Godiva Hair",
+    "adjs": "oppressive metaphorical artistic academic enough"
+  },
+  {
+    "id": "GodSaveUsFromTheQueen",
+    "name": "God Save Us From The Queen",
+    "adjs": "queen end-story xenophobic next decent"
+  },
+  {
+    "id": "GoGetterGirl",
+    "name": "Go Getter Girl",
+    "adjs": "go-getter academic liable put-together presentable"
+  },
+  {
+    "id": "GoodBadGirl",
+    "name": "Good Bad Girl",
+    "adjs": "initiative notorious unattached non-sexual sorry"
+  },
+  {
+    "id": "GoodGirlGoneBad",
+    "name": "Good Girl Gone Bad",
+    "adjs": "bad nice fateful good-hearted adorable"
+  },
+  {
+    "id": "GoodOlBoy",
+    "name": "Good Ol Boy",
+    "adjs": "southern-fried political sympathetic pro-life liberal"
+  },
+  {
+    "id": "GossipyHens",
+    "name": "Gossipy Hens",
+    "adjs": "close-knit interchangeable hear off-screen sole"
+  },
+  {
+    "id": "GracefulLadiesLikePurple",
+    "name": "Graceful Ladies Like Purple",
+    "adjs": "expensive synthetic now-familiar affordable grew"
+  },
+  {
+    "id": "GrandeDame",
+    "name": "Grande Dame",
+    "adjs": "frigid aghast aged ample advantageous"
+  },
+  {
+    "id": "GrannyClassic",
+    "name": "Granny Classic",
+    "adjs": "washed-up secondary big actual main"
+  },
+  {
+    "id": "GranolaGirl",
+    "name": "Granola Girl",
+    "adjs": "socialist-liberal-feminist-environmentalist scatter-brained 60-year-old overly-cheerful 'all-natural"
+  },
+  {
+    "id": "GreaseMonkey",
+    "name": "Grease Monkey",
+    "adjs": "fantastic filthy mechanic comic normal"
+  },
+  {
+    "id": "GreatWhiteHunter",
+    "name": "Great White Hunter",
+    "adjs": "heroic wild alive great big"
+  },
+  {
+    "id": "GreenSkinnedSpaceBabe",
+    "name": "Green Skinned Space Babe",
+    "adjs": "blue attractive alien otherwise-human accentuate"
+  },
+  {
+    "id": "GrumpyOldMan",
+    "name": "Grumpy Old Man",
+    "adjs": "young dad elderly old music"
+  },
+  {
+    "id": "GymBunny",
+    "name": "Gym Bunny",
+    "adjs": "headfirst opposite-sex possible superficial genuine"
+  },
+  {
+    "id": "Hackette",
+    "name": "Hackette",
+    "adjs": "startling generalized traffic female sub-trope"
+  },
+  {
+    "id": "HairyGirl",
+    "name": "Hairy Girl",
+    "adjs": "reasons: pubic cosmetic e.g various"
+  },
+  {
+    "id": "HandsomeDevil",
+    "name": "Handsome Devil",
+    "adjs": "b-blues-surf fetishized oh-so psychedelic-rockabilly-jazz-r everybody’s"
+  },
+  {
+    "id": "HandyMan",
+    "name": "Handy Man",
+    "adjs": "easy-going amiable affable good-natured good"
+  },
+  {
+    "id": "HardDrinkingPartyGirl",
+    "name": "Hard Drinking Party Girl",
+    "adjs": "playful non-alcoholic unneeded inane cheerful"
+  },
+  {
+    "id": "HarpOfFemininity",
+    "name": "Harp Of Femininity",
+    "adjs": "electric harp-playing such absolute graceful"
+  },
+  {
+    "id": "HauntedHeroine",
+    "name": "Haunted Heroine",
+    "adjs": "kid supernatural attic barely-concealed hinted-at"
+  },
+  {
+    "id": "HelloNurse",
+    "name": "Hello Nurse",
+    "adjs": "ball-buster steaming voluptuous considerable lust"
+  },
+  {
+    "id": "HeManWomanHater",
+    "name": "He Man Woman Hater",
+    "adjs": "he-man titular bad mere vast"
+  },
+  {
+    "id": "HenpeckedHusband",
+    "name": "Henpecked Husband",
+    "adjs": "hilarious humble dear delusional proper"
+  },
+  {
+    "id": "HeroicSeductress",
+    "name": "Heroic Seductress",
+    "adjs": "heroic evil fatale female-initiated only"
+  },
+  {
+    "id": "HerosMuse",
+    "name": "Heros Muse",
+    "adjs": "inspirational pure idealized unapproachable obi-wan"
+  },
+  {
+    "id": "HighClassCallGirl",
+    "name": "High Class Call Girl",
+    "adjs": "politician higher-class well-educated glamorous classy"
+  },
+  {
+    "id": "HighHeelFaceTurn",
+    "name": "High Heel Face Turn",
+    "adjs": "evil candidate irredeemable female frequent"
+  },
+  {
+    "id": "HighSchoolHustler",
+    "name": "High School Hustler",
+    "adjs": "bavarian mastermind dorky trouble-making ideological"
+  },
+  {
+    "id": "Hobos",
+    "name": "Hobos",
+    "adjs": "homeless natural unclear occur wealth-free"
+  },
+  {
+    "id": "HookerWithAHeartOfGold",
+    "name": "Hooker With AHeart Of Gold",
+    "adjs": "mentioned/alluded asian desperate exploitative true"
+  },
+  {
+    "id": "HotGypsyWoman",
+    "name": "Hot Gypsy Woman",
+    "adjs": "olive raven-black standardized low-waisted convenient"
+  },
+  {
+    "id": "HotMenAtWork",
+    "name": "Hot Men At Work",
+    "adjs": "intense bisexual good-looking male hot"
+  },
+  {
+    "id": "HotScientist",
+    "name": "Hot Scientist",
+    "adjs": "hot poisonous prehistoric sane technical"
+  },
+  {
+    "id": "HotScoop",
+    "name": "Hot Scoop",
+    "adjs": "gams-a-plenty exposé ish goings-on pun-"
+  },
+  {
+    "id": "HotWitch",
+    "name": "Hot Witch",
+    "adjs": "magic mysterious beautiful magical elegant"
+  },
+  {
+    "id": "HouseHusband",
+    "name": "House Husband",
+    "adjs": "stay-at-home full-time domestic ''are childcare"
+  },
+  {
+    "id": "HouseWife",
+    "name": "House Wife",
+    "adjs": "recent second-wave traditional extreme conducive"
+  },
+  {
+    "id": "HugeSchoolgirl",
+    "name": "Huge Schoolgirl",
+    "adjs": "average medical table huge tall"
+  },
+  {
+    "id": "HumanoidFemaleAnimal",
+    "name": "Humanoid Female Animal",
+    "adjs": "human-like visual animal curvaceous anthropomorphic"
+  },
+  {
+    "id": "Hunk",
+    "name": "Hunk",
+    "adjs": "tight teenage squarish negotiable pronounced"
+  },
+  {
+    "id": "HuskyRusskie",
+    "name": "Husky Russkie",
+    "adjs": "russian yemotional -ing soviet large"
+  },
+  {
+    "id": "HystericalWoman",
+    "name": "Hysterical Woman",
+    "adjs": "rational stable mental insensitive overwrought"
+  },
+  {
+    "id": "IceQueen",
+    "name": "Ice Queen",
+    "adjs": "cold ice-related nebulous unapproachable non-romantic"
+  },
+  {
+    "id": "IdolSinger",
+    "name": "Idol Singer",
+    "adjs": "japanese twenty-something sunny formulaic prevalent"
+  },
+  {
+    "id": "IllGirl",
+    "name": "Ill Girl",
+    "adjs": "last consumptive shady dangerous/brave side-effect"
+  },
+  {
+    "id": "InnocentFanserviceGirl",
+    "name": "Innocent Fanservice Girl",
+    "adjs": "different local inhuman goddess-avatar stop"
+  },
+  {
+    "id": "InnocentFlowerGirl",
+    "name": "Innocent Flower Girl",
+    "adjs": "hybrid corporeal tear-jerking ill artificial"
+  },
+  {
+    "id": "InsectQueen",
+    "name": "Insect Queen",
+    "adjs": "bee-like unified associate singular behavioral"
+  },
+  {
+    "id": "InstantSoprano",
+    "name": "Instant Soprano",
+    "adjs": "high-pitched retroactive slapstick-oriented testicular non-painful"
+  },
+  {
+    "id": "IronLady",
+    "name": "Iron Lady",
+    "adjs": "military well-hidden action-ready indecisive metal"
+  },
+  {
+    "id": "JadedWashout",
+    "name": "Jaded Washout",
+    "adjs": "world-weary basic cynical outright past"
+  },
+  {
+    "id": "Jailbait",
+    "name": "Jailbait",
+    "adjs": "serious legal interesting several few"
+  },
+  {
+    "id": "JeanneDArchetype",
+    "name": "Jeanne DArchetype",
+    "adjs": "unjust mythic larger-than-life zealous humble"
+  },
+  {
+    "id": "JerkJock",
+    "name": "Jerk Jock",
+    "adjs": "brutal white tall spiteful school/college"
+  },
+  {
+    "id": "JewishAmericanPrincess",
+    "name": "Jewish American Princess",
+    "adjs": "notable post-war american jewish materialistic"
+  },
+  {
+    "id": "JewishMother",
+    "name": "Jewish Mother",
+    "adjs": "nice jewish passive-aggressive stereotypical tired"
+  },
+  {
+    "id": "Joshikousei",
+    "name": "Joshikousei",
+    "adjs": "japanese high productive 'seifuku suit-styled"
+  },
+  {
+    "id": "JunglePrincess",
+    "name": "Jungle Princess",
+    "adjs": "jungle native european naive perish"
+  },
+  {
+    "id": "KavorkaMan",
+    "name": "Kavorka Man",
+    "adjs": "sixth self-terminate repellent self-respecting bed"
+  },
+  {
+    "id": "Kawaiiko",
+    "name": "Kawaiiko",
+    "adjs": "cute japanese giggle social unhealthy"
+  },
+  {
+    "id": "Keet",
+    "name": "Keet",
+    "adjs": "hyperactive cute colorful boisterous strict"
+  },
+  {
+    "id": "KickChick",
+    "name": "Kick Chick",
+    "adjs": "incapacitate self-defense—it top-heavy muscular upper"
+  },
+  {
+    "id": "KickingAssInAllHerFinery",
+    "name": "Kicking Ass In All Her Finery",
+    "adjs": "narrow hand-in-awesome-but-elegant-hand ass-whupping pimped-out conventional"
+  },
+  {
+    "id": "KidAnova",
+    "name": "Kid Anova",
+    "adjs": "statistical child-friendly high middle cold"
+  },
+  {
+    "id": "KindlyHousekeeper",
+    "name": "Kindly Housekeeper",
+    "adjs": "any—to children—if ready nice high"
+  },
+  {
+    "id": "KnightErrant",
+    "name": "Knight Errant",
+    "adjs": "unrelated earth-conquering accidental right webcomic"
+  },
+  {
+    "id": "KnightInShiningArmor",
+    "name": "Knight In Shining Armor",
+    "adjs": "cynical pig whilst chivalric self-control"
+  },
+  {
+    "id": "LadyDrunk",
+    "name": "Lady Drunk",
+    "adjs": "misanthropic all-too-grown-up upper-crust alcoholic bitter"
+  },
+  {
+    "id": "Ladyella",
+    "name": "Ladyella",
+    "adjs": "dimunitive cinder+ella eponymous comic popular"
+  },
+  {
+    "id": "LadyInRed",
+    "name": "Lady In Red",
+    "adjs": "red sexy sexual unavailable prudish"
+  },
+  {
+    "id": "LadyInWaiting",
+    "name": "Lady In Waiting",
+    "adjs": "lady-in-waiting ladies-in-waiting handmaiden attendant fit"
+  },
+  {
+    "id": "LadyKillerInLove",
+    "name": "Lady Killer In Love",
+    "adjs": "hispanic immune new real common"
+  },
+  {
+    "id": "LadyMacBeth",
+    "name": "Lady Mac Beth",
+    "adjs": "supportive real inevitable crazy second"
+  },
+  {
+    "id": "LadyNotAppearingInThisGame",
+    "name": "Lady Not Appearing In This Game",
+    "adjs": "unmemorable blatant exact minor odd"
+  },
+  {
+    "id": "LadyOfAdventure",
+    "name": "Lady Of Adventure",
+    "adjs": "coast excitement remnant live high-class"
+  },
+  {
+    "id": "LadyOfBlackMagic",
+    "name": "Lady Of Black Magic",
+    "adjs": "offensive elegant fantasy personality-wise impressive"
+  },
+  {
+    "id": "LadyOfWar",
+    "name": "Lady Of War",
+    "adjs": "magic gentle-mannered easily-concealed prissy alphabetical"
+  },
+  {
+    "id": "LawmanGoneBad",
+    "name": "Lawman Gone Bad",
+    "adjs": "outcast dirty new social great"
+  },
+  {
+    "id": "LazyHusband",
+    "name": "Lazy Husband",
+    "adjs": "husband-wife lazy laid-back dynamic stupid"
+  },
+  {
+    "id": "LeatherMan",
+    "name": "Leather Man",
+    "adjs": "hierarchy merged suggestive identifiable heavy-set"
+  },
+  {
+    "id": "LegCling",
+    "name": "Leg Cling",
+    "adjs": "cocky sexualized muscle-bound half-naked dominant"
+  },
+  {
+    "id": "LesbianCop",
+    "name": "Lesbian Cop",
+    "adjs": "similar 'male 'reserved 'masculine homosexual"
+  },
+  {
+    "id": "LesbianJock",
+    "name": "Lesbian Jock",
+    "adjs": "lesbian performance-based competitive 'reserved 'feminine"
+  },
+  {
+    "id": "LesbianVampire",
+    "name": "Lesbian Vampire",
+    "adjs": "lesbian female same-sex 'lesbian corruptive"
+  },
+  {
+    "id": "LightFeminineAndDarkFeminine",
+    "name": "Light Feminine And Dark Feminine",
+    "adjs": "dark devilish sweet-naïve angelic girly"
+  },
+  {
+    "id": "LipstickAndLoadMontage",
+    "name": "Lipstick And Load Montage",
+    "adjs": "methodical fetish key standard serious"
+  },
+  {
+    "id": "LipstickLesbian",
+    "name": "Lipstick Lesbian",
+    "adjs": "related lesbian over-emphasizing whole-hog 'over-the-top"
+  },
+  {
+    "id": "LittleDeadRidingHood",
+    "name": "Little Dead Riding Hood",
+    "adjs": "golden eye-catching coat memorable grim"
+  },
+  {
+    "id": "LittleGirlsKickShins",
+    "name": "Little Girls Kick Shins",
+    "adjs": "angry violent tactic adorable standard"
+  },
+  {
+    "id": "LittleMissAlmighty",
+    "name": "Little Miss Almighty",
+    "adjs": "epileptic heavy natural old young"
+  },
+  {
+    "id": "LittleMissBadass",
+    "name": "Little Miss Badass",
+    "adjs": "ridiculous noticeable good-natured touch innocent"
+  },
+  {
+    "id": "LittleMissConArtist",
+    "name": "Little Miss Con Artist",
+    "adjs": "adorable innocent sweet little real"
+  },
+  {
+    "id": "LittleOldLadyInvestigates",
+    "name": "Little Old Lady Investigates",
+    "adjs": "nice nosy sub-genre old busy"
+  },
+  {
+    "id": "LittleRedFightingHood",
+    "name": "Little Red Fighting Hood",
+    "adjs": "subversive valid inevitable reasonable terrible"
+  },
+  {
+    "id": "LittleSisterHeroine",
+    "name": "Little Sister Heroine",
+    "adjs": "cute similarly brother-sister ever-present incestuous"
+  },
+  {
+    "id": "LonelyDollGirl",
+    "name": "Lonely Doll Girl",
+    "adjs": "royalty disturbing sad dark real"
+  },
+  {
+    "id": "LongJohnShoutout",
+    "name": "Long John Shoutout",
+    "adjs": "direct long"
+  },
+  {
+    "id": "LooksLikeJesus",
+    "name": "Looks Like Jesus",
+    "adjs": "wavy latitude symbolic resemble conventional"
+  },
+  {
+    "id": "LovableAlphaBitch",
+    "name": "Lovable Alpha Bitch",
+    "adjs": "exclusive popular nasty manipulative vicious"
+  },
+  {
+    "id": "LovelyAngels",
+    "name": "Lovely Angels",
+    "adjs": "like widespread kind competent enough"
+  },
+  {
+    "id": "LovelyAssistant",
+    "name": "Lovely Assistant",
+    "adjs": "assistant magician small tight-fitting physical-displacement"
+  },
+  {
+    "id": "MachoCamp",
+    "name": "Macho Camp",
+    "adjs": "muscular-looking campish deny fashion-conscious well-know"
+  },
+  {
+    "id": "MachoMasochism",
+    "name": "Macho Masochism",
+    "adjs": "instant self-inflicted pussy punch hand-in-hand"
+  },
+  {
+    "id": "MadonnaWhoreComplex",
+    "name": "Madonna Whore Complex",
+    "adjs": "madonna-whore active ruthless clinical red/woman"
+  },
+  {
+    "id": "MadScientistsBeautifulDaughter",
+    "name": "Mad Scientists Beautiful Daughter",
+    "adjs": "shriveled recognizable beautiful mad prime"
+  },
+  {
+    "id": "MafiaPrincess",
+    "name": "Mafia Princess",
+    "adjs": "cherish hardened supportive gentle idealistic"
+  },
+  {
+    "id": "MagicalGirl",
+    "name": "Magical Girl",
+    "adjs": "magical witch-girl appropriate sizable fantastic"
+  },
+  {
+    "id": "MagicalGirlfriend",
+    "name": "Magical Girlfriend",
+    "adjs": "geeky true human immortal spell/curse"
+  },
+  {
+    "id": "MagicalGirlWarrior",
+    "name": "Magical Girl Warrior",
+    "adjs": "magic extended glammed-up mystic enjoyable"
+  },
+  {
+    "id": "MagicalNanny",
+    "name": "Magical Nanny",
+    "adjs": "magical strict neglectful rambunctious ineffectual"
+  },
+  {
+    "id": "MagicalSeventhSon",
+    "name": "Magical Seventh Son",
+    "adjs": "seventh magical caul amniotic seer-like"
+  },
+  {
+    "id": "MagicIdolSinger",
+    "name": "Magic Idol Singer",
+    "adjs": "magical musical music sub-trope compare/contrast"
+  },
+  {
+    "id": "MaidenAunt",
+    "name": "Maiden Aunt",
+    "adjs": "prudish unmarried later cordial new-fangled"
+  },
+  {
+    "id": "MamaBear",
+    "name": "Mama Bear",
+    "adjs": "anti-hero-dom orphaned one-man righteous non-human"
+  },
+  {
+    "id": "ManicPixieDreamGirl",
+    "name": "Manic Pixie Dream Girl",
+    "adjs": "independent critic stir-crazy long-standing wondrous"
+  },
+  {
+    "id": "ManInAKilt",
+    "name": "Man In AKilt",
+    "adjs": "intentional universal plural kilt-wearing permissible"
+  },
+  {
+    "id": "ManInWhite",
+    "name": "Man In White",
+    "adjs": "white such good color-inverted pic"
+  },
+  {
+    "id": "ManlyGay",
+    "name": "Manly Gay",
+    "adjs": "opposite homosexual complete such modern"
+  },
+  {
+    "id": "MartyStu",
+    "name": "Marty Stu",
+    "adjs": "active passive dramatic realistic quite"
+  },
+  {
+    "id": "MarySue",
+    "name": "Mary Sue",
+    "adjs": "over-skilled over-idealized unusual concrete prototypical"
+  },
+  {
+    "id": "MasculinityTropes",
+    "name": "Masculinity Tropes",
+    "adjs": "masculine cultural various real"
+  },
+  {
+    "id": "MataHari",
+    "name": "Mata Hari",
+    "adjs": "military french political secret weak-willed"
+  },
+  {
+    "id": "MatronChaperone",
+    "name": "Matron Chaperone",
+    "adjs": "debauched anxious eventful rid unmarried"
+  },
+  {
+    "id": "Meganekko",
+    "name": "Meganekko",
+    "adjs": "realistic sweet surefire second-best unpopular"
+  },
+  {
+    "id": "MegaTwintails",
+    "name": "Mega Twintails",
+    "adjs": "spiral minimum hair huge long"
+  },
+  {
+    "id": "Meido",
+    "name": "Meido",
+    "adjs": "young domestic household goshujin-sama insofar"
+  },
+  {
+    "id": "MenCantKeepHouse",
+    "name": "Men Cant Keep House",
+    "adjs": "well-kept pornographic unwashed self-obsessed mold-covered"
+  },
+  {
+    "id": "MilesGloriosus",
+    "name": "Miles Gloriosus",
+    "adjs": "ˈmile admirable egotistical so-called triumphant"
+  },
+  {
+    "id": "MillionairePlayboy",
+    "name": "Millionaire Playboy",
+    "adjs": "beautiful much"
+  },
+  {
+    "id": "MisplacedKindergartenTeacher",
+    "name": "Misplaced Kindergarten Teacher",
+    "adjs": "19-year-old foreign nasty odd straight"
+  },
+  {
+    "id": "MissingMom",
+    "name": "Missing Mom",
+    "adjs": "likely mom-substitute absent brief 20th"
+  },
+  {
+    "id": "MissKitty",
+    "name": "Miss Kitty",
+    "adjs": "certain former u.s ancillary post-world"
+  },
+  {
+    "id": "MisterSeahorse",
+    "name": "Mister Seahorse",
+    "adjs": "fanfic abdominal wing-wong gender-bending implant"
+  },
+  {
+    "id": "MistressAndServantBoy",
+    "name": "Mistress And Servant Boy",
+    "adjs": "servant overlap lady/mistress mentor/student grown-up"
+  },
+  {
+    "id": "MommasBoy",
+    "name": "Mommas Boy",
+    "adjs": "browbeaten well-meaning poor sensitive weak"
+  },
+  {
+    "id": "MonogenderMonsters",
+    "name": "Monogender Monsters",
+    "adjs": "single generic misandristic one-gender same"
+  },
+  {
+    "id": "MorallyBankruptBanker",
+    "name": "Morally Bankrupt Banker",
+    "adjs": "unsympathetic sympathetic obstructive thermostat much-needed"
+  },
+  {
+    "id": "MountainMan",
+    "name": "Mountain Man",
+    "adjs": "native northern recognizable solitary anachronistic"
+  },
+  {
+    "id": "MrFanservice",
+    "name": "Mr Fanservice",
+    "adjs": "lean broad fit effective tight"
+  },
+  {
+    "id": "MrFixit",
+    "name": "Mr Fixit",
+    "adjs": "avid unfamiliar free late able"
+  },
+  {
+    "id": "MrsClaus",
+    "name": "Mrs Claus",
+    "adjs": "delicious matron green complete classic"
+  },
+  {
+    "id": "MrsRobinson",
+    "name": "Mrs Robinson",
+    "adjs": "sympathetic may-december wish problematic mid"
+  },
+  {
+    "id": "MsFanservice",
+    "name": "Ms Fanservice",
+    "adjs": "flat-out stretchy low-cut penchant flat"
+  },
+  {
+    "id": "MyBelovedSmother",
+    "name": "My Beloved Smother",
+    "adjs": "own trouble sure over-nurturer gradual"
+  },
+  {
+    "id": "MysteriousProtector",
+    "name": "Mysterious Protector",
+    "adjs": "critical secretive complex villainous powerful"
+  },
+  {
+    "id": "MysteriousWaif",
+    "name": "Mysterious Waif",
+    "adjs": "mysterious evocative psychic alluring- common"
+  },
+  {
+    "id": "MysteriousWoman",
+    "name": "Mysterious Woman",
+    "adjs": "sensuous know-it-all optional dangerous black"
+  },
+  {
+    "id": "MysticalWaif",
+    "name": "Mystical Waif",
+    "adjs": "mysterious magic-oriented pure-hearted even unknown"
+  },
+  {
+    "id": "NaginatasAreFeminine",
+    "name": "Naginatas Are Feminine",
+    "adjs": "naginata-user glaive useful japanese spear"
+  },
+  {
+    "id": "NaiveEverygirl",
+    "name": "Naive Everygirl",
+    "adjs": "naïve fairy-tale preteen blind inescapable"
+  },
+  {
+    "id": "NaughtyByNight",
+    "name": "Naughty By Night",
+    "adjs": "librarian alcoholic sensible significant other"
+  },
+  {
+    "id": "NaughtyNuns",
+    "name": "Naughty Nuns",
+    "adjs": "voluntarily—medieval today—when paint slang christian"
+  },
+  {
+    "id": "NaughtyNurseOutfit",
+    "name": "Naughty Nurse Outfit",
+    "adjs": "actual loose-fitting impractical fetish heavy"
+  },
+  {
+    "id": "NEET",
+    "name": "NEET",
+    "adjs": "job-searching shut-in 'keet college-age sentimental"
+  },
+  {
+    "id": "NerdNanny",
+    "name": "Nerd Nanny",
+    "adjs": "hot couch-ridden story-driving glow punish"
+  },
+  {
+    "id": "NeutralFemale",
+    "name": "Neutral Female",
+    "adjs": "able-bodied lovely inanimate narrative neutral"
+  },
+  {
+    "id": "NeverASelfMadeWoman",
+    "name": "Never ASelf Made Woman",
+    "adjs": "powerful important male own mild"
+  },
+  {
+    "id": "NeverMessWithGranny",
+    "name": "Never Mess With Granny",
+    "adjs": "old bad"
+  },
+  {
+    "id": "NiceJewishBoy",
+    "name": "Nice Jewish Boy",
+    "adjs": "jewish nice adorkable reliable self-deprecating"
+  },
+  {
+    "id": "NinjaMaid",
+    "name": "Ninja Maid",
+    "adjs": "obedient super-powered gentle young many"
+  },
+  {
+    "id": "NobleMaleRoguishMale",
+    "name": "Noble Male Roguish Male",
+    "adjs": "single world-wise reckless roguish destructive"
+  },
+  {
+    "id": "NocturnalEmission",
+    "name": "Nocturnal Emission",
+    "adjs": "non-perverted biological erotic i.e such"
+  },
+  {
+    "id": "NonActionGuy",
+    "name": "Non Action Guy",
+    "adjs": "likely exceptional action-oriented comedy impossible"
+  },
+  {
+    "id": "NonActionSnarker",
+    "name": "Non Action Snarker",
+    "adjs": "non-action-oriented snarky feminine happy likely"
+  },
+  {
+    "id": "NoShirtLongJacket",
+    "name": "No Shirt Long Jacket",
+    "adjs": "i"
+  },
+  {
+    "id": "NoWomansLand",
+    "name": "No Womans Land",
+    "adjs": "african frequent vulnerable legal moral"
+  },
+  {
+    "id": "NubileSavage",
+    "name": "Nubile Savage",
+    "adjs": "jagged caveman/amazon-themed uncivilized leopard-skin young"
+  },
+  {
+    "id": "OfficeLady",
+    "name": "Office Lady",
+    "adjs": "corporate japanese low-level attentive gracious"
+  },
+  {
+    "id": "OfficerAndAGentleman",
+    "name": "Officer And AGentleman",
+    "adjs": "negative clever speak .after rabble"
+  },
+  {
+    "id": "Ojou",
+    "name": "Ojou",
+    "adjs": "formal wealthy oujo-sama feminine-only leading"
+  },
+  {
+    "id": "OldMaid",
+    "name": "Old Maid",
+    "adjs": "familial vaguely-defined conformist twilight unlikable"
+  },
+  {
+    "id": "OldSchoolChivalry",
+    "name": "Old School Chivalry",
+    "adjs": "wrong old-fashioned archaic hand-kissing sharp-dressed"
+  },
+  {
+    "id": "OneeSama",
+    "name": "Onee Sama",
+    "adjs": "onee-sama formal idol-follower onee-seme puppy"
+  },
+  {
+    "id": "OneOfTheBoys",
+    "name": "One Of The Boys",
+    "adjs": "other pal approachable crude subject"
+  },
+  {
+    "id": "OutdoorsyGal",
+    "name": "Outdoorsy Gal",
+    "adjs": "natural free-range adventurous further rural"
+  },
+  {
+    "id": "OverlordJr",
+    "name": "Overlord Jr",
+    "adjs": "evil lousy spoiled mischievous bad"
+  },
+  {
+    "id": "OverprotectiveDad",
+    "name": "Overprotective Dad",
+    "adjs": "i.e female-on-male father/daughter girls/women bible"
+  },
+  {
+    "id": "PapaWolf",
+    "name": "Papa Wolf",
+    "adjs": "sibling/cousin mile earth safe overprotective"
+  },
+  {
+    "id": "PassionateSportsGirl",
+    "name": "Passionate Sports Girl",
+    "adjs": "want stellar male accessible logical"
+  },
+  {
+    "id": "PecFlex",
+    "name": "Pec Flex",
+    "adjs": "jiggle pectoral music comedic strong"
+  },
+  {
+    "id": "PerkyFemaleMinion",
+    "name": "Perky Female Minion",
+    "adjs": "crush upbeat psychotic dynamic ax-crazy"
+  },
+  {
+    "id": "PerkyGoth",
+    "name": "Perky Goth",
+    "adjs": "pessimistic perky pink/black amiable singular"
+  },
+  {
+    "id": "PervertDad",
+    "name": "Pervert Dad",
+    "adjs": "hungry classmate useless content overprotective"
+  },
+  {
+    "id": "PetitePride",
+    "name": "Petite Pride",
+    "adjs": "d-cup flat cute much young"
+  },
+  {
+    "id": "PirateGirl",
+    "name": "Pirate Girl",
+    "adjs": "roguish apparent amazonian lovable abusive"
+  },
+  {
+    "id": "PitGirls",
+    "name": "Pit Girls",
+    "adjs": "m"
+  },
+  {
+    "id": "PlayboyBunny",
+    "name": "Playboy Bunny",
+    "adjs": "original custom-made flimsy nekomimi-style bunny"
+  },
+  {
+    "id": "PluckyGirl",
+    "name": "Plucky Girl",
+    "adjs": "optimistic unassailable 'brave human able"
+  },
+  {
+    "id": "PluckyOfficeGirl",
+    "name": "Plucky Office Girl",
+    "adjs": "go-for great wonderful invisible plucky"
+  },
+  {
+    "id": "PoliticallyActivePrincess",
+    "name": "Politically Active Princess",
+    "adjs": "active diplomatic politically-active skilled naive"
+  },
+  {
+    "id": "PregnancyTropes",
+    "name": "Pregnancy Tropes",
+    "adjs": "babby lucky"
+  },
+  {
+    "id": "PregnantBadass",
+    "name": "Pregnant Badass",
+    "adjs": "troublesome soul moderate fragile maternal"
+  },
+  {
+    "id": "PregnantHostage",
+    "name": "Pregnant Hostage",
+    "adjs": "off-duty hostage med-school know-it-all nearby"
+  },
+  {
+    "id": "PrettyBoy",
+    "name": "Pretty Boy",
+    "adjs": "androgynous call assemble rugged dang"
+  },
+  {
+    "id": "PrinceCharming",
+    "name": "Prince Charming",
+    "adjs": "next have magnetic aristocrat gallant"
+  },
+  {
+    "id": "PrinceCharmingWannabe",
+    "name": "Prince Charming Wannabe",
+    "adjs": "wrongheaded over-inflated overdue egotistical well-meaning"
+  },
+  {
+    "id": "PrinceCharmless",
+    "name": "Prince Charmless",
+    "adjs": "total shallow literal wrong outright"
+  },
+  {
+    "id": "PrincelyTropes",
+    "name": "Princely Tropes",
+    "adjs": "several royal many male other"
+  },
+  {
+    "id": "PrincelyYoungMan",
+    "name": "Princely Young Man",
+    "adjs": "elite regal high rich common"
+  },
+  {
+    "id": "PrincessClassic",
+    "name": "Princess Classic",
+    "adjs": "archetypical ideal innocent noble positive"
+  },
+  {
+    "id": "PrincessPhase",
+    "name": "Princess Phase",
+    "adjs": "breakable wistful gracious childish favorite"
+  },
+  {
+    "id": "PrincessTropes",
+    "name": "Princess Tropes",
+    "adjs": "various beautiful such"
+  },
+  {
+    "id": "ProperLady",
+    "name": "Proper Lady",
+    "adjs": "english lucky treacherous madonna-like witty"
+  },
+  {
+    "id": "PsychoLesbian",
+    "name": "Psycho Lesbian",
+    "adjs": "lesbian final psychotic crazy bisexual"
+  },
+  {
+    "id": "QuicklyDemotedWoman",
+    "name": "Quickly Demoted Woman",
+    "adjs": "former love-interest in-setting y-chromosome boys/men"
+  },
+  {
+    "id": "QuintessentialBritishGentleman",
+    "name": "Quintessential British Gentleman",
+    "adjs": "british funny pesky top polite-sounding"
+  },
+  {
+    "id": "RebelliousPrincess",
+    "name": "Rebellious Princess",
+    "adjs": "arranged rebellious royal 'lower write"
+  },
+  {
+    "id": "RebelPrince",
+    "name": "Rebel Prince",
+    "adjs": "ungrateful c.e.o.s hereditary ready spear"
+  },
+  {
+    "id": "ReluctantFanserviceGirl",
+    "name": "Reluctant Fanservice Girl",
+    "adjs": "monkey-ness unhappy modest third fictional"
+  },
+  {
+    "id": "RichBitch",
+    "name": "Rich Bitch",
+    "adjs": "ever-so-superior jewel-encrusted contemptuous vicious impossible"
+  },
+  {
+    "id": "RightHandHottie",
+    "name": "Right Hand Hottie",
+    "adjs": "meticulous lean secretary assistant additional"
+  },
+  {
+    "id": "RightThroughHisPants",
+    "name": "Right Through His Pants",
+    "adjs": "sweet hard-core horny naked soft-core"
+  },
+  {
+    "id": "RobotGirl",
+    "name": "Robot Girl",
+    "adjs": "gorgeous robotic drop-dead mechanical sexy"
+  },
+  {
+    "id": "Samurai",
+    "name": "Samurai",
+    "adjs": "upper japanese edo-period counter-culture modern"
+  },
+  {
+    "id": "SassyBlackWoman",
+    "name": "Sassy Black Woman",
+    "adjs": "regal positive articulate proportionate insightful"
+  },
+  {
+    "id": "ScaryBlackMan",
+    "name": "Scary Black Man",
+    "adjs": "scary large brown/dark-skinned pro-klan black"
+  },
+  {
+    "id": "ScaryLibrarian",
+    "name": "Scary Librarian",
+    "adjs": "mad trouble"
+  },
+  {
+    "id": "SchoolgirlLesbians",
+    "name": "Schoolgirl Lesbians",
+    "adjs": "japanese improper subtext female-female complicated"
+  },
+  {
+    "id": "SchoolMarm",
+    "name": "School Marm",
+    "adjs": "single plain-looking one-room viewer-oriented hatchet-faced"
+  },
+  {
+    "id": "SchoolNurse",
+    "name": "School Nurse",
+    "adjs": "physician two-teacher corrective school-aged snot-nosed"
+  },
+  {
+    "id": "ScreamingWoman",
+    "name": "Screaming Woman",
+    "adjs": "plenty ugly cast powerful female"
+  },
+  {
+    "id": "SculleryMaid",
+    "name": "Scullery Maid",
+    "adjs": "menial drudgery marvelous less-developed invisible"
+  },
+  {
+    "id": "SeashellBra",
+    "name": "Seashell Bra",
+    "adjs": "unimaginative bare-chested bra-like one-piece starfish"
+  },
+  {
+    "id": "SeeminglyWholesomeFiftiesGirl",
+    "name": "Seemingly Wholesome Fifties Girl",
+    "adjs": "sexual knee-length innocent-on-the-inside sexy-on-the-outside premarital"
+  },
+  {
+    "id": "SeniorSleepCycle",
+    "name": "Senior Sleep Cycle",
+    "adjs": "neurological narcolepsy exempt elderly likely"
+  },
+  {
+    "id": "SenseiChan",
+    "name": "Sensei Chan",
+    "adjs": "-sensei -chan-sensei diminutive miss-baby informal"
+  },
+  {
+    "id": "SensitiveGuyAndManlyMan",
+    "name": "Sensitive Guy And Manly Man",
+    "adjs": "sensitive likable id grievous nerdy"
+  },
+  {
+    "id": "SexistUsedCarSalesman",
+    "name": "Sexist Used Car Salesman",
+    "adjs": "imaginary mechanic adorable common little"
+  },
+  {
+    "id": "SexyManInstantHarem",
+    "name": "Sexy Man Instant Harem",
+    "adjs": "distinguishable ecstatic forgiveable self-respecting irrelevant"
+  },
+  {
+    "id": "SexyPriest",
+    "name": "Sexy Priest",
+    "adjs": "next roman sinister antipathy charismatic"
+  },
+  {
+    "id": "SexySecretary",
+    "name": "Sexy Secretary",
+    "adjs": "right-hand interpersonal pa/secretary office-related detective"
+  },
+  {
+    "id": "SexyStewardess",
+    "name": "Sexy Stewardess",
+    "adjs": "analysis.sexy seductive glamorous popular liable"
+  },
+  {
+    "id": "ShamelessFanserviceGirl",
+    "name": "Shameless Fanservice Girl",
+    "adjs": "comedic key semi-private safe satirical"
+  },
+  {
+    "id": "SharpDressedMan",
+    "name": "Sharp Dressed Man",
+    "adjs": "imaginative optional expensive usual"
+  },
+  {
+    "id": "ShelteredAristocrat",
+    "name": "Sheltered Aristocrat",
+    "adjs": "cowardly-type melancholic plucky-type honourable helpless"
+  },
+  {
+    "id": "ShiksaGoddess",
+    "name": "Shiksa Goddess",
+    "adjs": "jewish gentile insular blue-eyed non-jewish"
+  },
+  {
+    "id": "ShirtlessCaptives",
+    "name": "Shirtless Captives",
+    "adjs": "integral regular necessary male obvious"
+  },
+  {
+    "id": "ShirtlessScene",
+    "name": "Shirtless Scene",
+    "adjs": "are ogle x-men tear-away fleshy"
+  },
+  {
+    "id": "ShortTank",
+    "name": "Short Tank",
+    "adjs": "tomboyish cute fanservice-y girlish other"
+  },
+  {
+    "id": "SingleMomStripper",
+    "name": "Single Mom Stripper",
+    "adjs": "dancing taxi-dancer tables—in quick practical"
+  },
+  {
+    "id": "SirIndexOfTropes",
+    "name": "Sir Index Of Tropes",
+    "adjs": ""
+  },
+  {
+    "id": "SissyVillain",
+    "name": "Sissy Villain",
+    "adjs": "ambiguous effeminate fashion-victim 'unsuitable swishy"
+  },
+  {
+    "id": "SmallGirlBigGun",
+    "name": "Small Girl Big Gun",
+    "adjs": "minor small big cute"
+  },
+  {
+    "id": "SmittenTeenageGirl",
+    "name": "Smitten Teenage Girl",
+    "adjs": "interests/priorities/etc precocious starry-eyed sincere child-like"
+  },
+  {
+    "id": "SoapBoxSadie",
+    "name": "Soap Box Sadie",
+    "adjs": "main self-righteous ( post-hippie throat"
+  },
+  {
+    "id": "Socialite",
+    "name": "Socialite",
+    "adjs": "rich high-end constant upper-class distant"
+  },
+  {
+    "id": "SouthernGentleman",
+    "name": "Southern Gentleman",
+    "adjs": "mythical nostalgic well-spoken well-dressed blue"
+  },
+  {
+    "id": "SpaceshipGirl",
+    "name": "Spaceship Girl",
+    "adjs": "holographic english-speaking close special human"
+  },
+  {
+    "id": "SpicyLatina",
+    "name": "Spicy Latina",
+    "adjs": "tsundere-ish urban penélope red-clad olive-skinned"
+  },
+  {
+    "id": "SpiritedYoungLady",
+    "name": "Spirited Young Lady",
+    "adjs": "historical well-rounded financial added outspoken"
+  },
+  {
+    "id": "SpoiledSweet",
+    "name": "Spoiled Sweet",
+    "adjs": "shallow selfish nice rich brat"
+  },
+  {
+    "id": "SportsWidow",
+    "name": "Sports Widow",
+    "adjs": "fanatical sport-specific stripperiffic one-handed game-winning"
+  },
+  {
+    "id": "StageMom",
+    "name": "Stage Mom",
+    "adjs": "pushy exploitable socially-acceptable coattail-riding self-serving"
+  },
+  {
+    "id": "StandardFiftiesFather",
+    "name": "Standard Fifties Father",
+    "adjs": "buttoned-down dependable white-collar excess patriarchy"
+  },
+  {
+    "id": "StatuesqueStunner",
+    "name": "Statuesque Stunner",
+    "adjs": "tall published awkward petite overall"
+  },
+  {
+    "id": "StoutStrength",
+    "name": "Stout Strength",
+    "adjs": "fat strong trim unmistakable common"
+  },
+  {
+    "id": "StraightGay",
+    "name": "Straight Gay",
+    "adjs": "homosexual heterosexual 'fit queens/flaming mainstream-friendly"
+  },
+  {
+    "id": "StrawMisogynist",
+    "name": "Straw Misogynist",
+    "adjs": "wrong pseudo-scientific anti-female irrefutable pro-male"
+  },
+  {
+    "id": "Streetwalker",
+    "name": "Streetwalker",
+    "adjs": "fur six-inch run-down illegal plastic"
+  },
+  {
+    "id": "StringyHairedGhostGirl",
+    "name": "Stringy Haired Ghost Girl",
+    "adjs": "burial clad ghost-white pale-skinned colorful"
+  },
+  {
+    "id": "StumblingUponTheLostWizard",
+    "name": "Stumbling Upon The Lost Wizard",
+    "adjs": "scientist/wizard jade-colored long-lost sinister motive"
+  },
+  {
+    "id": "SurferDude",
+    "name": "Surfer Dude",
+    "adjs": "excellent lot'o surfable 'cause triumphant"
+  },
+  {
+    "id": "SweaterGirl",
+    "name": "Sweater Girl",
+    "adjs": "tight cultural heart-shaped introvert sexy"
+  },
+  {
+    "id": "SweetPollyOliver",
+    "name": "Sweet Polly Oliver",
+    "adjs": "'woman 'man 'young man/boy inconceivable"
+  },
+  {
+    "id": "SwingLowSweetHarriet",
+    "name": "Swing Low Sweet Harriet",
+    "adjs": "spiritual optional weird little modern"
+  },
+  {
+    "id": "TakingTheVeil",
+    "name": "Taking The Veil",
+    "adjs": "religious arranged dreadful honor-related all-female"
+  },
+  {
+    "id": "TeamMom",
+    "name": "Team Mom",
+    "adjs": "capable bossy stern physical angry"
+  },
+  {
+    "id": "TeenyWeenie",
+    "name": "Teeny Weenie",
+    "adjs": "a-cup cold small few common"
+  },
+  {
+    "id": "TerritorialSmurfette",
+    "name": "Territorial Smurfette",
+    "adjs": "new happy territorial infertile legitimate"
+  },
+  {
+    "id": "TestesTest",
+    "name": "Testes Test",
+    "adjs": "intact first"
+  },
+  {
+    "id": "TheAllAmericanBoy",
+    "name": "The All American Boy",
+    "adjs": "all-american at-home high-school elementary southern-fried"
+  },
+  {
+    "id": "TheBaroness",
+    "name": "The Baroness",
+    "adjs": "variable military self-respect mid-20th-century young-ish"
+  },
+  {
+    "id": "TheBear",
+    "name": "The Bear",
+    "adjs": "bearish bear husbear lgbt-made definitive"
+  },
+  {
+    "id": "TheBlueBeard",
+    "name": "The Blue Beard",
+    "adjs": "nefarious famous common"
+  },
+  {
+    "id": "TheButcher",
+    "name": "The Butcher",
+    "adjs": "war-time meat unfair impressive ax-crazy"
+  },
+  {
+    "id": "TheCasanova",
+    "name": "The Casanova",
+    "adjs": "chivalrous active juvenile unsuccessful kind-hearted"
+  },
+  {
+    "id": "TheChanteuse",
+    "name": "The Chanteuse",
+    "adjs": "favourite stoic useful dangerous romantic"
+  },
+  {
+    "id": "TheCharmer",
+    "name": "The Charmer",
+    "adjs": "secretary devil-may-care jack-the-lad decent cheeky"
+  },
+  {
+    "id": "TheCheerleader",
+    "name": "The Cheerleader",
+    "adjs": "athlete winning mesh 'growth sympathetic"
+  },
+  {
+    "id": "TheChick",
+    "name": "The Chick",
+    "adjs": "five-man helpful functional spiritual adventurous"
+  },
+  {
+    "id": "TheChiefsDaughter",
+    "name": "The Chiefs Daughter",
+    "adjs": "usually-white pop-cultural unnecessary racial hereditary"
+  },
+  {
+    "id": "TheCutie",
+    "name": "The Cutie",
+    "adjs": "peaceful upbeat sympathy all-loving idealistic"
+  },
+  {
+    "id": "TheDandy",
+    "name": "The Dandy",
+    "adjs": "emphasized 'more sharp-dressed well-groomed excessive"
+  },
+  {
+    "id": "TheEvilPrince",
+    "name": "The Evil Prince",
+    "adjs": "rightful meant unlikely thorough front"
+  },
+  {
+    "id": "TheFakeCutie",
+    "name": "The Fake Cutie",
+    "adjs": "cute aren’t full-grown mature nefarious"
+  },
+  {
+    "id": "TheFashionista",
+    "name": "The Fashionista",
+    "adjs": "likely multiple bitch/rich white-dwarf skinny"
+  },
+  {
+    "id": "TheFightingNarcissist",
+    "name": "The Fighting Narcissist",
+    "adjs": "beautiful formidable caucasian perfect characteristic"
+  },
+  {
+    "id": "TheFlapper",
+    "name": "The Flapper",
+    "adjs": "short 18th promiscuous 19th wide-brimmed"
+  },
+  {
+    "id": "TheGambler",
+    "name": "The Gambler",
+    "adjs": "due well-versed slow-witted slick pledged"
+  },
+  {
+    "id": "TheGeneralissimo",
+    "name": "The Generalissimo",
+    "adjs": "political real-life prestigious extrajudicial militaristic"
+  },
+  {
+    "id": "TheGoodKing",
+    "name": "The Good King",
+    "adjs": "soft equal next well-being you’d"
+  },
+  {
+    "id": "TheGruntingOrgasm",
+    "name": "The Grunting Orgasm",
+    "adjs": "featured/parodied screen/panel intense brief compare/contrast"
+  },
+  {
+    "id": "TheHecateSisters",
+    "name": "The Hecate Sisters",
+    "adjs": "matron/mother 20th-century sharp-witted sharp-tongued mutable"
+  },
+  {
+    "id": "TheHighQueen",
+    "name": "The High Queen",
+    "adjs": "majestic indirect non-evil/bastardy power-hungry über-character"
+  },
+  {
+    "id": "TheIngenue",
+    "name": "The Ingenue",
+    "adjs": "lyric white-dwarf virginal wide-eyed poetic"
+  },
+  {
+    "id": "TheLadette",
+    "name": "The Ladette",
+    "adjs": "lad-ette aggressive cross-dressing femininistic more-refined"
+  },
+  {
+    "id": "TheLadysFavour",
+    "name": "The Ladys Favour",
+    "adjs": "prized arguable official alive literal"
+  },
+  {
+    "id": "TheLoinsSleepTonight",
+    "name": "The Loins Sleep Tonight",
+    "adjs": "deep-seated erectile person/people double cardiovascular"
+  },
+  {
+    "id": "TheMuse",
+    "name": "The Muse",
+    "adjs": "creative classical captive-muse-for-someone-with-writer's-block captive great"
+  },
+  {
+    "id": "TheOldConvict",
+    "name": "The Old Convict",
+    "adjs": "fellow longer-than-life inside central ax-crazy"
+  },
+  {
+    "id": "TheOneGuy",
+    "name": "The One Guy",
+    "adjs": "serve non-threatening uncertain rabid jealous"
+  },
+  {
+    "id": "TheOphelia",
+    "name": "The Ophelia",
+    "adjs": "original wronged kooky flower-strewing delicate-looking"
+  },
+  {
+    "id": "ThePatriarch",
+    "name": "The Patriarch",
+    "adjs": "efficient mere overprotective rough basic"
+  },
+  {
+    "id": "TheSlacker",
+    "name": "The Slacker",
+    "adjs": "irresponsible copious neat-freak early…late… don’t"
+  },
+  {
+    "id": "TheSquadette",
+    "name": "The Squadette",
+    "adjs": "obligatory grubby all-white strange form-fitting"
+  },
+  {
+    "id": "TheTease",
+    "name": "The Tease",
+    "adjs": "emotional deep unavoidable disguised implied"
+  },
+  {
+    "id": "TheThreeFacesOfAdam",
+    "name": "The Three Faces Of Adam",
+    "adjs": "drive male"
+  },
+  {
+    "id": "TheUglyGuysHotDaughter",
+    "name": "The Ugly Guys Hot Daughter",
+    "adjs": "sin—but type—mother blind ugly unattractive"
+  },
+  {
+    "id": "TheVamp",
+    "name": "The Vamp",
+    "adjs": "classic evil black-haired cutesy-plain red-blooded"
+  },
+  {
+    "id": "TheWisePrince",
+    "name": "The Wise Prince",
+    "adjs": "next poignant unprivileged well-intentioned kind"
+  },
+  {
+    "id": "TheWomanWearingTheQueenlyMask",
+    "name": "The Woman Wearing The Queenly Mask",
+    "adjs": "tragic laugh plentiful next severe"
+  },
+  {
+    "id": "ThisIndexIsABitch",
+    "name": "This Index Is ABitch",
+    "adjs": "unaware antagonistic nefarious villainous evil"
+  },
+  {
+    "id": "TimePassageBeard",
+    "name": "Time Passage Beard",
+    "adjs": "next very long few"
+  },
+  {
+    "id": "TinyTyrannicalGirl",
+    "name": "Tiny Tyrannical Girl",
+    "adjs": "small decisive teen pre-puberty notable"
+  },
+  {
+    "id": "TokenLesbian",
+    "name": "Token Lesbian",
+    "adjs": "inclusive all-gay-male tenuous all-male main"
+  },
+  {
+    "id": "TokenYuriGirls",
+    "name": "Token Yuri Girls",
+    "adjs": "one-sided girl/girl yuri-style acknowledged plausible"
+  },
+  {
+    "id": "Tomboy",
+    "name": "Tomboy",
+    "adjs": "boyish tomboyish vary permeable relatable"
+  },
+  {
+    "id": "TomBoyAndGirlyGirl",
+    "name": "Tom Boy And Girly Girl",
+    "adjs": "poor non-heterosexual clumsy toned-down bitchy"
+  },
+  {
+    "id": "TomboyPrincess",
+    "name": "Tomboy Princess",
+    "adjs": "moderate down-to-earth busy rebellious typical"
+  },
+  {
+    "id": "TomboyWithAGirlyStreak",
+    "name": "Tomboy With AGirly Streak",
+    "adjs": "tomboyish boy-ish neat japanese girly"
+  },
+  {
+    "id": "TopHeavyGuy",
+    "name": "Top Heavy Guy",
+    "adjs": "skinny huge stubby super-deformed non-humaniod"
+  },
+  {
+    "id": "TownGirls",
+    "name": "Town Girls",
+    "adjs": "typical uptown free-spirited assertive well-intentioned"
+  },
+  {
+    "id": "TroubledButCute",
+    "name": "Troubled But Cute",
+    "adjs": "t-r-o-u-b-l-e antisocial fit difficult first"
+  },
+  {
+    "id": "TunnelKing",
+    "name": "Tunnel King",
+    "adjs": "ludicrous different likely"
+  },
+  {
+    "id": "TwoGuysInAGarage",
+    "name": "Two Guys In AGarage",
+    "adjs": "positive common male"
+  },
+  {
+    "id": "UncannyValleyGirl",
+    "name": "Uncanny Valley Girl",
+    "adjs": "crush sharp entire human normal"
+  },
+  {
+    "id": "UnderstandingBoyfriend",
+    "name": "Understanding Boyfriend",
+    "adjs": "supernatural okay guy/girl thin noble"
+  },
+  {
+    "id": "UnisexTropes",
+    "name": "Unisex Tropes",
+    "adjs": "specific incidental much other"
+  },
+  {
+    "id": "UnluckyEveryDude",
+    "name": "Unlucky Every Dude",
+    "adjs": "basic comedic average love/harem likeable"
+  },
+  {
+    "id": "UnrequitedTragicMaiden",
+    "name": "Unrequited Tragic Maiden",
+    "adjs": "romantic tragic point-of-view devious full-blooded"
+  },
+  {
+    "id": "UselessBoyfriend",
+    "name": "Useless Boyfriend",
+    "adjs": "action/magical soul-eating monster-killing ineffective wide"
+  },
+  {
+    "id": "VainSorceress",
+    "name": "Vain Sorceress",
+    "adjs": "female drastic deceptive ancient-looking naivete"
+  },
+  {
+    "id": "Valkyries",
+    "name": "Valkyries",
+    "adjs": "inverted iconic classical religious related"
+  },
+  {
+    "id": "ValleyGirl",
+    "name": "Valley Girl",
+    "adjs": "important screw clash glad skanky"
+  },
+  {
+    "id": "ViolentlyProtectiveGirlFriend",
+    "name": "Violently Protective Girl Friend",
+    "adjs": "gon bad much many common"
+  },
+  {
+    "id": "WaistcoatOfStyle",
+    "name": "Waistcoat Of Style",
+    "adjs": "extra waistcoat pretentious trenchcoat gunfire"
+  },
+  {
+    "id": "WalkingShirtlessScene",
+    "name": "Walking Shirtless Scene",
+    "adjs": "gratuitous animals/civilized stripperiffic-ness half-dressed male-exclusive"
+  },
+  {
+    "id": "WeirdBeard",
+    "name": "Weird Beard",
+    "adjs": "non-mammalian hair real"
+  },
+  {
+    "id": "WhiteDwarfStarlet",
+    "name": "White Dwarf Starlet",
+    "adjs": "burst unmentionable residual run-down delusional"
+  },
+  {
+    "id": "WhiteMagicianGirl",
+    "name": "White Magician Girl",
+    "adjs": "incorruptible brilliant feminine female other"
+  },
+  {
+    "id": "WickedStepmother",
+    "name": "Wicked Stepmother",
+    "adjs": "dead straight own wicked red-headed"
+  },
+  {
+    "id": "WickedWitch",
+    "name": "Wicked Witch",
+    "adjs": "non-evil pointed medieval/historical modern-based pre-industrial"
+  },
+  {
+    "id": "WidowWitch",
+    "name": "Widow Witch",
+    "adjs": "old interested fantasy healthful solitary"
+  },
+  {
+    "id": "WidowWoman",
+    "name": "Widow Woman",
+    "adjs": "objectionable virtuous old-fashioned moral potential"
+  },
+  {
+    "id": "WinterRoyalLady",
+    "name": "Winter Royal Lady",
+    "adjs": "blueish white incredible blue exotic"
+  },
+  {
+    "id": "WizardBeard",
+    "name": "Wizard Beard",
+    "adjs": "natural standard long white evil"
+  },
+  {
+    "id": "WomanInBlack",
+    "name": "Woman In Black",
+    "adjs": "black outright anti-heroine all-black forbidden"
+  },
+  {
+    "id": "WomanInWhite",
+    "name": "Woman In White",
+    "adjs": "white vivid fastidious important blood-splattered"
+  },
+  {
+    "id": "WomanScorned",
+    "name": "Woman Scorned",
+    "adjs": "wrong bunny infamous ideal ax-crazy"
+  },
+  {
+    "id": "WomenDrivers",
+    "name": "Women Drivers",
+    "adjs": "traffic evolutionary fender-bender upper-body two-car"
+  },
+  {
+    "id": "WorldsMostBeautifulWoman",
+    "name": "Worlds Most Beautiful Woman",
+    "adjs": "beautiful beyond real-world subjective alive"
+  },
+  {
+    "id": "WorldsStrongestMan",
+    "name": "Worlds Strongest Man",
+    "adjs": "brainy arguable warrior stupid full"
+  },
+  {
+    "id": "WrenchWench",
+    "name": "Wrench Wench",
+    "adjs": "curious mechanical eye-candy electronic forte"
+  },
+  {
+    "id": "YamatoNadeshiko",
+    "name": "Yamato Nadeshiko",
+    "adjs": "japanese general passive low-heeled father-in-law"
+  },
+  {
+    "id": "YaoiFangirl",
+    "name": "Yaoi Fangirl",
+    "adjs": "homoromantic/homoerotic female-on-female interminable rare infamous"
+  },
+  {
+    "id": "YaoiGuys",
+    "name": "Yaoi Guys",
+    "adjs": "male-male garnish acknowledged demographic appear"
+  },
+  {
+    "id": "YokoOhNo",
+    "name": "Yoko Oh No",
+    "adjs": "eye-to-eye musician prevalent athlete sympathy"
+  },
+  {
+    "id": "YoungGun",
+    "name": "Young Gun",
+    "adjs": "impetuous training/experience/maturity less-awesome hot-headed"
+  }
+]

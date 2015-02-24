@@ -9,9 +9,9 @@ var movies = new Bloodhound({
 movies.initialize();
 
 var tropes = new Bloodhound({
-  datumTokenizer: Bloodhound.tokenizers.obj.whitespace('name'),
+  datumTokenizer: Bloodhound.tokenizers.obj.whitespace('name', 'adjs'),
   queryTokenizer: Bloodhound.tokenizers.whitespace,
-  prefetch: 'data/tropes_all_compressed.json'
+  prefetch: 'data/tropes_all_adjs.json'
 });
 
 tropes.initialize();
@@ -26,7 +26,8 @@ $('#search .typeahead').typeahead({
   displayKey: 'name',
   source: tropes.ttAdapter(),
   templates: {
-    header: '<h3 class="search-name">Tropes</h3>'
+    header: '<h3 class="search-name">Tropes</h3>',
+    suggestion: function(e) { return '<p class="tt-suggestion-title">' + e.name + '</p><p class="tt-suggestion-detail">' + e.adjs + "</p>"; }
   }
 },
 {

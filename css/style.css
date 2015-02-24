@@ -107,3 +107,18 @@ a:hover {
 .tt-suggestion p {
   margin: 0;
 }
+
+.tt-dropdown-menu .search-name {
+  margin: 0 20px 5px 20px;
+  padding: 3px 0;
+  border-bottom: 1px solid #ccc;
+}
+
+/* .tt-dataset-tropes { */
+/*   background-color: #ddd; */
+/* } */
+
+.tt-suggestion-detail {
+  font-size: 0.7em;
+  font-style: italic;
+}
